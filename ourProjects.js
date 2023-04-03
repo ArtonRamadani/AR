@@ -66,7 +66,8 @@ const Homepage = (props) => {
     // }
    
     setActiveIndex(value);
-    swiper.slideTo(value, 300, false);
+    
+    swiper.slideTo(value, 300, true);
   };
 
   const params = {
@@ -218,7 +219,7 @@ const Homepage = (props) => {
                     data-aos-offset="0"
                   >
                     <img className="card-img-top " alt="Alumni Project" src={AluminProdukt} />
-                    <div className="description mt-4">
+                    <div className="description">
                       <h5 className=" name-hide cardTitle">{Translations(props?.langData, props?.selected_lang, 'produkteNgaAlumini')}</h5>
                       <p className="card-text ">{Translations(props?.langData, props?.selected_lang, 'pershkrimiProdukteveTeAluminit')}</p>
                     </div>
@@ -230,7 +231,7 @@ const Homepage = (props) => {
                     data-aos-duration="500"
                     data-aos-offset="0">
                     <img className="card-img-top" src={PVCimg} />
-                    <div className="description mt-4">
+                    <div className="description">
                       <h5 className=" name-hide cardTitle">PVC</h5>
                       <p className="card-text ">{Translations(props?.langData, props?.selected_lang, 'tekstiProduktevePVC')}</p>
                     </div>
@@ -242,7 +243,7 @@ const Homepage = (props) => {
                     data-aos-duration="500"
                     data-aos-offset="0">
                     <img className="card-img-top " src={SpiderGlassIMG} />
-                    <div className="description mt-4">
+                    <div className="description">
                       <h5 className=" name-hide cardTitle">{Translations(props?.langData, props?.selected_lang, 'produkteNgaXhami')} </h5>
                       <p className="card-text ">{Translations(props?.langData, props?.selected_lang, 'tekstiProdukteveNgaXhami')}</p>
                     </div>
@@ -334,7 +335,9 @@ const Homepage = (props) => {
                     <Swiper {...params}
                       modules={[EffectCards]}
                       effect={"cards"}
-                      swipeable ={false}
+                      onSwiper={(swiper) => console.log('swiper', swiper)}
+                      onSlideChange={(e) => console.log('slide change', e)}
+                      swipeable ={true}
                       className="mySwiper"  >
                       {SliderImages.map((el, index) => (
                         <SwiperSlide>
