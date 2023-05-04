@@ -1,4 +1,4 @@
-i did this, fix my bug becaus nothin is opening or cloasing import React, { useEffect } from 'react'
+import React, { useEffect } from 'react'
 import { slideToggle, slideUp, slideDown } from './src/libs/slide';
 import {
   ANIMATION_DURATION,
@@ -439,15 +439,4 @@ const Sidebar = () => {
   )
 }
 
-export default Sidebar 
-
-i get this error: 
-ERROR
-Cannot read properties of null (reading 'classList')
-TypeError: Cannot read properties of null (reading 'classList')
-    at HTMLAnchorElement.<anonymous> (http://localhost:3000/static/js/bundle.js:484:69)
-ERROR
-Cannot read properties of null (reading 'classList')
-TypeError: Cannot read properties of null (reading 'classList')
-    at HTMLAnchorElement.<anonymous> (http://localhost:3000/static/js/bundle.js:484:69)
-ERROR
+export default Sidebar
