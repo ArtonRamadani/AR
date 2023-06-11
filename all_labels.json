@@ -1,0 +1,2291 @@
+[
+    {
+        "key": "NeProcessLabel",
+        "content_al": "Në Proces",
+        "content_en": "In Process",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "AboutUs",
+        "content_al": "Rreth nesh",
+        "content_en": "About us",
+        "content_de": "Über uns",
+        "usage": ""
+    },
+    {
+        "key": "ourProjects",
+        "content_al": "Projektet tona",
+        "content_en": "Our Projects",
+        "content_de": "Unsere Projekte",
+        "usage": ""
+    },
+    {
+        "key": "whatWeOffer",
+        "content_al": "Çka ofrojmë?",
+        "content_en": "What we offer?",
+        "content_de": "Was wir anbieten?",
+        "usage": ""
+    },
+    {
+        "key": "forPublic",
+        "content_al": "Për publikun",
+        "content_en": "For public",
+        "content_de": "Für die Öffentlichkeit",
+        "usage": ""
+    },
+    {
+        "key": "kontaktimi",
+        "content_al": "Kontakt",
+        "content_en": "Contact",
+        "content_de": "Kontakt",
+        "usage": ""
+    },
+    {
+        "key": "projekti",
+        "content_al": "Projekti:",
+        "content_en": "Project:",
+        "content_de": "Projekt:",
+        "usage": ""
+    },
+    {
+        "key": "SpitaliOnkologjik",
+        "content_al": "Spitali Onkologjik",
+        "content_en": "Oncology Hospital",
+        "content_de": "Onkologisches Krankenhaus",
+        "usage": ""
+    },
+    {
+        "key": "SallaQëndroreKoncerteve",
+        "content_al": "Salla qëndrore koncerteve",
+        "content_en": "Oncology Hospital",
+        "content_de": "Onkologisches Krankenhaus",
+        "usage": ""
+    },
+    {
+        "key": "kazakistan",
+        "content_al": "Kazakistan",
+        "content_en": "Kazakhstan",
+        "content_de": "Kazakhstan",
+        "usage": ""
+    },
+    {
+        "key": "shikoProjektet",
+        "content_al": "Shiko projektet",
+        "content_en": "See our Projects",
+        "content_de": "Siehe unsere Projekte",
+        "usage": ""
+    },
+    {
+        "key": "produkteTeKualitetitTeLarte",
+        "content_al": "Zgjidhje profesionale për fasada të xhamit dhe aluminit",
+        "content_en": "Professional solutions for aluminium and glass facade",
+        "content_de": "Professionelle Lösungen für Aluminium- und Glasfassaden",
+        "usage": ""
+    },
+    {
+        "key": "produkteNgaAlumini",
+        "content_al": "Produkte nga Alumini",
+        "content_en": "Aluminum products",
+        "content_de": "Aluminiumprodukte",
+        "usage": ""
+    },
+    {
+        "key": "pershkrimiProdukteveTeAluminit",
+        "content_al": "Fasda, dyer e dritare të aluminit shumë cilësore dhe të veçanta për tregun global dhe ate vendor.",
+        "content_en": "Quality and unique aluminium facade for local and global market",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "tekstiProduktevePVC",
+        "content_al": "M-TECHNOLOGIE prodhon dyer dhe dritare, me teknologjinë dhe paisjet më moderne për përpunimin e plastikës.",
+        "content_en": "These profiles enable customers to realize their dreams in lighting dark rooms. These profiles offer high static stability, resulting in more efficient light and energy.",
+        "content_de": "Mit diesen Profilen können Kunden ihre Träume von der Beleuchtung dunkler Räume verwirklichen. Diese Profile bieten eine hohe statische Stabilität, was zu effizienterem Licht und Energie führt.",
+        "usage": ""
+    },
+    {
+        "key": "produkteNgaXhami",
+        "content_al": "Produkte nga xhami",
+        "content_en": "Glass products",
+        "content_de": "Glasprodukte",
+        "usage": ""
+    },
+    {
+        "key": "KatalogjetLabel",
+        "content_al": "Katalogjet",
+        "content_en": "Catalogs",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "MirënjohjetLabel",
+        "content_al": "Mirënjohjet",
+        "content_en": "Gratitude",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "ÇertifikatatLabel",
+        "content_al": "Çertifikatat",
+        "content_en": "Certificates!",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "tekstiProdukteveNgaXhami",
+        "content_al": "M-Technologie bën përpunimin e xhamit për fasada, dyer dhe dritare, dush kabina, aplikime enterieri, ndarje të brendshme, etj.",
+        "content_en": "The vertical and horizontal profiles of this facade system are easily combined with other systems that have high energy efficiency.",
+        "content_de": "Die vertikalen und horizontalen Profile dieses Fassadensystems lassen sich problemlos mit anderen Systemen kombinieren, die eine hohe Energieeffizienz aufweisen.",
+        "usage": ""
+    },
+    {
+        "key": "zgjedhTekstiImazhi",
+        "content_al": "Zgjedh",
+        "content_en": "Select ",
+        "content_de": "Wähle ",
+        "usage": ""
+    },
+    {
+        "key": "PROFILINTekstiImazhi",
+        "content_al": "Profilin",
+        "content_en": "Profile",
+        "content_de": "Profil",
+        "usage": ""
+    },
+    {
+        "key": "XHAMINTekstiImazhi",
+        "content_al": "Xhamin",
+        "content_en": "glass",
+        "content_de": "glas",
+        "usage": ""
+    },
+    {
+        "key": "NgjyrenTekstiImazhi",
+        "content_al": "Ngjyrën",
+        "content_en": "Color",
+        "content_de": "die Farbe",
+        "usage": ""
+    },
+    {
+        "key": "ProjektoDritarënTëndeNëTreHapa",
+        "content_al": "Dizajno dritarën tënde <br/> në tre hapa!",
+        "content_en": "Design your own window <br/> in three steps!",
+        "content_de": "Gestalten Sie Ihr eigenes Fenster!",
+        "usage": ""
+    },
+    {
+        "key": "TekstiProjektimiDritares",
+        "content_al": "Varësisht nga nevojat tuaja, me anë të vizualizimit në 3D ti mund të <br/> ndertosh dritaren tënde duke zgjedhur profilin, llojin e xhamave dhe<br/> ngjyren.",
+        "content_en": "Depending on your needs, by means of visualization in 3D you can build your window by choosing the profile, type of glass, handles and color.",
+        "content_de": "Je nach Bedarf können Sie mittels Visualisierung in 3D Ihr Fenster bauen, indem Sie das Profil, die Glasart, die Griffe und die Farbe auswählen.",
+        "usage": ""
+    },
+    {
+        "key": "ProjektoTekstiKrijoImazhin",
+        "content_al": "Projekto tani",
+        "content_en": "Project now",
+        "content_de": "Projekt jetzt",
+        "usage": ""
+    },
+    {
+        "key": "benifitetEdritareveTeKualitetitTeLarte",
+        "content_al": "Benefitet e dritareve me kualitet të lartë",
+        "content_en": "The benefits of high quality windows",
+        "content_de": "Die Vorteile hochwertiger Fenster",
+        "usage": ""
+    },
+    {
+        "key": "rriteVlerenShtepiake",
+        "content_al": "Rritja e vlerës së shtëpisë",
+        "content_en": "Increased home value",
+        "content_de": "Erhöhter Hauswert",
+        "usage": ""
+    },
+    {
+        "key": "rritjaSigurinShpise",
+        "content_al": "Rritja e sigurisë së shtëpisë",
+        "content_en": "Enhanced home security and safety",
+        "content_de": "Verbesserte Sicherheit und Sicherheit zu Hause",
+        "usage": ""
+    },
+    {
+        "key": "reduktoPluhurinDheAlergjite",
+        "content_al": "Reduktimi i pluhurit dhe alergeneve",
+        "content_en": "Reduced dust and allergens",
+        "content_de": "Weniger Staub und Allergene",
+        "usage": ""
+    },
+    {
+        "key": "RritKomoditetinNeShtepi",
+        "content_al": "Rritë rehatinë në shtëpi",
+        "content_en": "Improved home comfort",
+        "content_de": "Verbesserter Wohnkomfort",
+        "usage": ""
+    },
+    {
+        "key": "ImprovedEnergyEfficiency",
+        "content_al": "Efikasiteti i përmirësuar i energjisë",
+        "content_en": "Improved energy efficiency",
+        "content_de": "Verbesserte Energieeffizienz",
+        "usage": ""
+    },
+    {
+        "key": "reduktoZhurmen",
+        "content_al": "Reduktimi i zhurmës",
+        "content_en": "Noise reduction",
+        "content_de": "Lärmreduzierung",
+        "usage": ""
+    },
+    {
+        "key": "zgjedhjeMeMirembajtjeTeUlet",
+        "content_al": "Zgjidhje me mirëmbajtje të ulët",
+        "content_en": "Low-maintenance solutions",
+        "content_de": "Wartungsarme Lösungen",
+        "usage": ""
+    },
+    {
+        "key": "projektetErealizuara",
+        "content_al": "Projektet e realizuara",
+        "content_en": "Realized projects",
+        "content_de": "Realisierte Projekte",
+        "usage": ""
+    },
+    {
+        "key": "FiltroLabel",
+        "content_al": "FILTRO",
+        "content_en": "FILTER",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "dragAndDiscoverSliderTekst",
+        "content_al": "Lëviz  dhe shiko",
+        "content_en": "Drag and discover",
+        "content_de": "Ziehen und entdecken",
+        "usage": ""
+    },
+    {
+        "key": "PrishtinaMallNameLabel",
+        "content_al": "Prishtina Mall",
+        "content_en": "Prishtina Mall",
+        "content_de": "Prishtina Mall",
+        "usage": ""
+    },
+    {
+        "key": "PrishtinaNameLabel",
+        "content_al": "Kosovë",
+        "content_en": "Kosovo",
+        "content_de": "Kosovo",
+        "usage": ""
+    },
+    {
+        "key": "KosovaNameLabel",
+        "content_al": "Kosovë",
+        "content_en": "Kosovo",
+        "content_de": "Kosovo",
+        "usage": ""
+    },
+    {
+        "key": "ZvicerraNameLabel",
+        "content_al": "Zvicërr",
+        "content_en": "Switzerland",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "ShqipëriNameLabel",
+        "content_al": "Shqipëri",
+        "content_en": "Albania",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "PallatiAkullitNameLabel",
+        "content_al": "Ice Pallace",
+        "content_en": "Ice Pallace",
+        "content_de": "Ice Pallace",
+        "usage": ""
+    },
+    {
+        "key": "AstanaNameLabel",
+        "content_al": "Kazakistan",
+        "content_en": "Kazakhstan",
+        "content_de": "Kazakhstan",
+        "usage": ""
+    },
+    {
+        "key": "KazakistanNameLabel",
+        "content_al": "Kazakistan",
+        "content_en": "Kazakhstan",
+        "content_de": "Kazakhstan",
+        "usage": ""
+    },
+    {
+        "key": "pershkrimiPareProduktitPVC",
+        "content_al": "Linja e prodhimit të dyerëve dhe dritareve të plastikës është tërësisht e kompjuterizuar dhe perdorë makinat e fjalës së fundit të prodhuesit gjerman Elumatec.<br/><br/>Profilet e plastikës janë të prodhuesve gjerman Profine dhe Schüco dhe janë të shënuara me etiketën 'Greenline' që nënkupton përdorimin e elementeve jo të dëmshme për ambientin. Sistemet nga PVC ofrojnë plotësimin e standardeve si: izolim termik, izolim akustik, ajrosje, shfrytëzim të lehtë të hapësirave, mbrojtje efektive ndaj vjedhjeve dhe pastrim e mirëmbajtje të lehtë.<br/><br/>Mekanizmi është pjesa më e ndjeshme në funksionimin dhe jetëgjatësinë e dritareve.<br/>Për këtë ne kemi zgjedhur grupin e kompanive gjermane Gretsch-Unitas. Për më tepër se 100 vjet emrat e njohur si BKS (teknologjia e mbylljes), FERCO (mekanizmave), dhe GU Automatik (sistemi automatik i hyrjeve) ofrojnë një varg të mekanizmave dhe paisjeve të sigurimit të dyerve dhe dritareve gjithnjë me ide të reja inovative dhe të teknologjisë së fundit.",
+        "content_en": "",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "pershkrimiTeknologjiveTeProdhimitPVC",
+        "content_al": "Linja për prodhimin e dritareve dhe dyerve nga PVC është linjë tërësisht automatike e kompjuterizuar e teknologjisë më të fundit. <br/> Llojet e makinave janë nga prodhuesi gjerman Elumatec.",
+        "content_en": "The production line for plastic doors and windows is entirely computerized and uses the latest machines from the German manufacturer Elumatec. The plastic profiles are sourced from German manufacturers Profine and Schüco and are labeled with the “Greenline” label, which implies the use of environmentally friendly elements. PVC systems offer compliance with standards such as thermal insulation, sound insulation, ventilation, easy use of spaces, effective protection against theft, and easy maintenance and cleaning. The mechanism is the most sensitive part of the function and longevity of windows. For this, we have chosen the group of German companies Gretsch-Unitas. For more than 100 years, well-known names such as BKS (locking technology), FERCO (mechanisms), and GU Automatik (automatic entrance system) offer a range of door and window security mechanisms and devices with always new innovative ideas and the latest technology.\"",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "mekanizmaTeProdhimitPVC",
+        "content_al": "Meqenëse mekanizmi është pjesa më e ndjeshme në funksionimin dhe jetëgjatësinë e elementeve, ne kemi zgjedhur grupin e kompanive gjermane Gretsch-Unitas. Për më tepër se 100 vjet emrat e njohur si BKS (teknologjia e mbylljes), FERCO (mekanizmave), dhe GU Automatik ( sistemi automatik i hyrjeve) ofrojnë një varg të mekanizmave dhe paisjeve të sigurimit të dyerve dhe dritareve gjithnjë me ide të reja dhe të teknologjisë më të fundit.",
+        "content_en": "The production line for PVC windows and doors is a fully automated and computerized line using the latest technology. The types of machines used are from the German manufacturer Elumatec.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "roletatTeProdhimitPVC",
+        "content_al": "Roletat mundësojnë rregullimin e lehtë të sasisë së dritës në dhomë. Sigurojnë mbrojtjen nga të ftohtit, të nxehtit, zhurmës, erës, shiut dhe diellit duke ofruar rehati dhe mirëqenie në ambientint tuaj. Roletat mund të operohen me rrip tërheqës, shkop ose komandim modern automatic me teledirigjues.",
+        "content_en": "As the mechanism is the most sensitive part of the functioning and longevity of the elements, we have chosen the group of German companies Gretsch-Unitas. For more than 100 years, well-known names such as BKS (locking technology), FERCO (mechanisms), and GU Automatik (automatic entrance system) offer a range of door and window security mechanisms and devices with always new innovative ideas and the latest technology.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "roletatTeProdhimitPVC-li1",
+        "content_al": "Dizajn kompakt",
+        "content_en": "Compact design",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "roletatTeProdhimitPVC-li2",
+        "content_al": "Mundëson rrjedhjen e ujit në mënyrë të sigurt në pjesën e jashtme",
+        "content_en": "Allows water to flow safely to the outside",
+        "content_de": "Lässt Wasser sicher nach außen fließen",
+        "usage": ""
+    },
+    {
+        "key": "roletatTeProdhimitPVC-li3",
+        "content_al": "Mundësi të ndryshme të ngjyrave",
+        "content_en": "Enables safe drainage of water on the outside part",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "roletatTeProdhimitPVC-li4",
+        "content_al": "E lehtë për t’u instaluar dhe mirëmbajtur",
+        "content_en": "Different color options",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "roletatTeProdhimitPVC-li5",
+        "content_al": "Mundësi e vendosjes së rrjetës kundër insekteve",
+        "content_en": "Easy to install and maintain",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "roletatTeProdhimitPVC-li6",
+        "content_al": "Mundësi suavtimi nga të dy anët brenda dhe jashtë",
+        "content_en": "Possibility of installing an insect screen repellent",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "roletatTeProdhimitPVC-li6",
+        "content_al": "Përputhet sipas specifikimeve EnEv",
+        "content_en": "Possibility of tilting from both sides, inside and outside",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "roletatTeProdhimitPVC-li7",
+        "content_al": "Dimensionet të ndryshme të kutive G1-G4.",
+        "content_en": "Complies with EnEv specifications",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "pershkrimiPareProduktitAlumini",
+        "content_al": "Profilet vertikale dhe horizontale të këtij sistemi të fasadës kombinohen lehtë me sisteme të tjera që kanë efikasitet të lartë të energjisë. <br/><br/> M-Technologie me fabrikën për përpunimin e aluminit tashmë me përvojë dhjetë vjeçare ofron shumë mundësi për realizimin e elementeve të ndryshme. Teknologjia më moderne e prodhimit na mudnëson që të ofrojmë produkte cilësore dhe të veqanta për tregun global si: <br/> Fasda strukturale, fasada gjysmëstrukturale, fasada kontinuale, fasada ventiluese, dyer dhe dritare me funksione të ndryshme.",
+        "content_en": "Different dimensions of G1-G4 boxes",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "TitulliDyerDheDritareProduktitAlumini",
+        "content_al": "Dyer dhe dritare nga alumini",
+        "content_en": "The vertical and horizontal profiles of this facade system easily combine with other high energy-efficient systems. M-Technologie, with its aluminum processing factory, has over a decade of experience in offering various options for realizing different elements. The most modern production technology allows us to offer quality and unique products for the global market, such as: structural facades, semi-structural facades, continuous facades, ventilated facades, doors, and windows with different functions.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "pershkrimiDyerDheDritareProduktitAlumini",
+        "content_al": "M-Technologie punon dyer nga alumini me panele të ndryshme decorative për t’iu ofruar klientëve komoditet në ambiente të ngrohta familjare apo afariste. Duke përdorur teknikat më bashkëkohore dhe material me kualitet sipas standardeve europiane, ofron dizajne unike në treg. Teknologjia inovative mundëson që të cilësohemi edhe në tregun botëror si lider për efiçiencë, jetëgjatësi, qëndrueshmëri dhe rezistencë ndaj faktorëve natyror. Hapi dyert e së ardhmës!",
+        "content_en": "Doors and windows made of aluminum.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "FasadaNgaAluminiTitle",
+        "content_al": "Fasada nga alumini",
+        "content_en": "M-Technologie produces aluminum doors with various decorative panels to offer customers comfort in warm and inviting environments, whether at home or in a business setting. By using the most contemporary techniques and high-quality materials that meet European standards, M-Technologie offers unique designs in the market. Innovative technology allows us to be recognized as a leader in efficiency, durability, sustainability, and resistance to natural factors even in the global market. Open the doors to the future!",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "fasadaNgaAluminiDescription",
+        "content_al": "Sistemi i fasadës FWS 50 ofron një game të gjerë të lirisë së projektimit në fasada vertikale dhe në lantern. Ky sistem plotëson kërkesat ekologjike për produkte të qëndrueshme, certifikuar sipas “Cradle-to-Cradle Certified TM”. Profilet vertikale dhe horizontale të këtij sistemi të fasadës kombinohen me sisteme të tjera që kanë efikasitet të lartë të energjisë. <br/> Estetika e objektit tuaj tani më është e zgjidhur me sistemin FW50+SG, pasi që profilet janë të dukshme vetëm në brendësi të objektit. <br/> Zgjidhja e re e sistemit të integruar në profil për barrierat e sigurisë së shpatullës me një shkallë të lartë  të lirisë së projektimit dhe pronat më të mira të izolimit termik. Modulet shtesë të sistemit gjithashtu lehtësojnë integrimin e thjeshtë dhe të sigurt të komponentëve elektrikë. <br/> <br/> Sistemi gjithashtu lejon që fasadat të dizajnohen me një pamje gjysmë-strukturore. Profilet janë të dukshme vetëm në pjesën e brendshme por edhe me mundësi të kapakëve dekoruese nga ana e jashtme. <br/><br/> Fusha e këtij sistemi ofron një game të gjerë të aksesorëve me një nivel të lartë të besueshmërisë të prodhimit, si komponentët e lidhjes diskrete për sistemet e mbrojtjes nga dielli, si dhe zgjidhjet e testuara për rezistencën ndaj vjedhjeve deri në shkallëet e sigurisë RC2 dhe RC3.",
+        "content_en": "Aluminum façade",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "spiderFasadaDescription",
+        "content_al": "Fasda Spider me xham sigurues është fasadë pa structure bartëse të dukshme. Për shkak të vizualitetit (dukjes) të saj, spider fasada zakonisht përdoret në hotele, aeroporte dhe ndërtesa administrative. Metodat e përdorura për fiksimin e paneleve të xhamave realizohen duke përdorur aksesorë të veçantë nga materiali inox. Në aspektin arkitektonik spider fasada lejon hapësirë të madhe në zhvillimin e përfundimtare.",
+        "content_en": "The FWS 50 facade system offers a wide range of design freedom for vertical and lantern facades. This system meets ecological requirements for sustainable products, certified according to “Cradle-to-Cradle Certified TM”. The vertical and horizontal profiles of this facade system can be combined with other systems that have high energy efficiency. <br/> The aesthetics of your building are now solved with the FW50+SG system, as the profiles are only visible inside the building. <br/> The new solution of the integrated system in the profile for shoulder safety barriers with a high degree of design freedom and the best thermal insulation properties. Additional modules of the system also facilitate the simple and safe integration of electrical components. <br/> <br/> The system also allows facades to be designed with a semi-structural appearance. The profiles are only visible on the inside but with the possibility of decorative covers on the outside. <br/><br/> The field of this system offers a wide range of accessories with a high level of production reliability, such as discreet connection components for sun protection systems, as well as tested solutions for resistance to theft up to the RC2 and RC3 security levels.\"",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "spiderFasadaTitle",
+        "content_al": "Spider fasadë",
+        "content_en": "Spider facade with safety glass is a facade without visible supporting structures. Due to its visual appearance, spider facade is usually used in hotels, airports, and administrative buildings. The methods used for fixing the glass panels are carried out using special accessories made of stainless steel. In architectural terms, spider facade allows for a great deal of freedom in final development.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "fasadEventiluarTitle",
+        "content_al": "Fasada të ventiluara",
+        "content_en": "Spider façade",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "fasadEventiluarDescription",
+        "content_al": "Panelet komposite zakonisht janë panele fasadash të formatit të madh të përbëra nga një material bazë i qëndrueshëm dhe dy shtresa mbuluese. Struktura e përbërë i bën ato shumë elastike dhe i mundëson arkitektëve të krijojnë dizajne imponuese arkitekurore. Ofrohen me një game të gjerë ngjyrash të shtresave mbuluese.<br/> Ky sistem i fasadave realizohet me panele kompozite nga alumini dhe HPL (High Pressure Laminate).",
+        "content_en": "Ventilated facades",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "FasadaNgaPaneleKompoziteAluminTitle",
+        "content_al": " Fasada nga panele kompozite – Alumin",
+        "content_en": "Composite panels are usually large format facade panels composed of a sustainable base material and two covering layers. Their composite structure makes them highly flexible and enables architects to create impressive architectural designs. They are available in a wide range of colors for the covering layers. <br/> This facade system is realized with composite panels made of aluminum and HPL (High Pressure Laminate).",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "FasadaNgaPaneleKompoziteAluminDescription",
+        "content_al": "Ky lloj i fasadës është i aplikueshëm në të gjitha rastet kur është e nevojshme veshja shtesë e mureve të betonit, tullave ose çdo lloj muri të mbyllur dhe sipërfaqeve, në atë mënyrë që t’i jepet dukja përfundimtare objektit, duke plotësuar kërkesat termike dhe decorative.<br/> Kërkesat e ndryshme të projektuesve dhe investitorëve, kanë rezultuar në zhvillimin e llojeve të ndryshme të fasadave ventiluese.",
+        "content_en": "Facades made of composite panels – Aluminum",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "FasadëNgaGuriTitle",
+        "content_al": "Fasadë nga guri",
+        "content_en": "This type of facade is applicable in all cases where an additional cladding of concrete walls, bricks or any type of closed walls and surfaces is necessary, in order to give the finished appearance to the object, fulfilling thermal and decorative requirements. <br/> The different requirements of designers and investors have resulted in the development of various types of ventilated facades.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "FasadëNgaGuriDescription",
+        "content_al": "Fasada e gurit lejon lagështinë të dale jashtë dhe pengon atë të futet brenda. Ky lloj i fasadës mund të realizohet me kapëse të dukshme ose të padukshme. Nënkonstruksioni i aluminit: Trashësia e gurit 20, 25, 30mm. Gjerësia e fugës horizontale e nënkosntruksionit bartës është 600, 900, 1200 mm.",
+        "content_en": "Stone façade",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "FasadëNgaQeramikaTitle",
+        "content_al": "Fasadë nga qeramika",
+        "content_en": "Stone facade allows moisture to exit and prevents it from entering inside. This type of facade can be realized with visible or invisible fixings. The aluminum substructure: The thickness of the stone is 20, 25, 30mm. The width of the horizontal joint of the supporting substructure is 600, 900, 1200 mm.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "FasadëNgaQeramikaDescription",
+        "content_al": "Nënkonstruksioni i aluminit, trashësia e qeramikës mund të jetë 8-16mm. Gjerësia e fugës horizontale 6mm. Rasteri horizontal i nënkonstruksionit bartës është 300, 930, 1030 dhe 1200mm. Ky lloj i fasadës mund të realizohet me kapëse të dukshme, të padukshme dhe gjysmë të dukshme.",
+        "content_en": "Ceramic façade",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "shikoKatalogunEprodukteveAluminSinglePage",
+        "content_al": "Shiko katalogun e produkteve te aluminit",
+        "content_en": "The aluminum substructure, the thickness of the ceramic can be 8-16mm. The width of the horizontal joint is 6mm. The horizontal grid of the supporting substructure is 300, 930, 1030, and 1200mm. This type of facade can be realized with visible, invisible, and semi-visible fixings.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "shikoKatalogunEprodukteveXhamitSinglePage",
+        "content_al": "Shiko katalogun e produkteve te xhamit",
+        "content_en": "See the catalog of aluminum products",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "ProduktetExhamitTitle",
+        "content_al": "Produktet e xhamit",
+        "content_en": "See the catalog of glass products",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "ProduktetExhamit-Teksti-tek-produktet-tona-Label",
+        "content_al": "M-Technologie, me fabrikën më moderne në vend dhe rajon bënë përpunimin e xhamit për fasada, dyer dhe dritare, dush kabina, aplikime enterieri, kuzhina, ndarje të brendshme, mobilieri etj. <br /><br />Teknologjitë moderne të punës na e mundësojnë ofrimin e produkteve cilësore dhe të veçanta për tregun global si: temperim-kalitja e xhamit, emajlimi i xhamit, printimi digjital me ngjyra të ndryshme qeramike, arti dekorativ i xhamit, përpunimin e gravurave, fazetave si dhe shpuarjen, gërryerjen dhe lustrimin e tyre në dimensione të mëdha deri 2800mm x 4800mm ku tejkalon standartet e xhamit të zakonshëm. <br /><br />Suksesi jonë vazhdon të jetë kënaqësia e klientëve tanë.",
+        "content_en": "Glass products",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Katallogjet-Teksti-tek-perpublikun-tona-Label",
+        "content_al": "Katalogjet tanë shfaqin një gamë produktesh nga xhami, alumini dhe PVC. Të cilat përfshijnë dritare, dyer dhe materiale të tjera ndërtimi. Ato ofrojnë informacion të detajuar mbi specifikimet dhe veçoritë e produktit, duke ndihmuar klientët të marrin vendime të informuara se cilat produkte i përshtaten më mirë nevojave të tyre. Katalogjet tanë janë krijuar për të qenë miqësorë për përdoruesit, duke e bërë të lehtë për klientët të shfletojnë dhe të gjejnë zgjidhje për atë që kërkojnë.",
+        "content_en": "Our catalogues showcase a range of glass, aluminum and PVC products. Which include windows, doors and other building materials. They provide detailed information on product specifications and features, helping customers make informed decisions about which products best suit their needs. Our catalogues are designed to be user-friendly, making it easy for customers to browse and find solutions for what they are looking for.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Mirenjohjet-Teksti-tek-perpublikun-tona-Label",
+        "content_al": "Vlerësimet pozitive për kontributin tonë në fushën tonë të veprimtarisë, si nga klientët dhe partnerët tanë, duke u njohur për cilësinë e produkteve dhe shërbimeve tona, përkushtimin ndaj inovacionit dhe teknologjisë së avancuar. Këto mirenjohje janë dëshmi e këmbënguljes sonë për të përmbushur pritshmëritë e klientëve dhe për të qenë një kompani e rëndësishme në fushën tonë të veprimtarisë.",
+        "content_en": "Positive evaluations for our contribution in our field of activity, both from our customers and partners, recognizing the quality of our products and services, our dedication to innovation and advanced technology. These appreciations are evidence of our commitment to meeting customer expectations and being an important company in our field of activity.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Certifikatat-Teksti-tek-perpublikun-tona-Label",
+        "content_al": "Si një kompani me renome, certifikatat tona tregojnë përkushtimin tonë ndaj cilësisë dhe ndikojnë në rritjen e besueshmërisë së klientëve. Ne kemi arritur të fitojmë certifikime nga organizata të respektuara dhe prestigjioze, duke përfshirë standarded ISO. Këto certifikata janë dëshmi e përkushtimit tonë ndaj përmbushjes së kërkesave të tregut dhe mbështetjes së vlerave tona si një kompani e rëndësishme dhe me integritet të lartë.",
+        "content_en": "As a reputable company, our certifications demonstrate our commitment to quality and contribute to increasing customer trust. We have achieved certifications from respected and prestigious organizations, including ISO standards. These certifications are evidence of our dedication to meeting market requirements and supporting our values as an important and high-integrity company.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "ProduktetExhamitFirstDescription",
+        "content_al": "M-Technologie, me fabrikën më moderne në vend dhe rajon bënë përpunimin e xhamit për fasada, dyer dhe dritare, dush kabina, aplikime enterieri, kuzhina, ndarje të brendshme, mobilieri etj.<br/><br/> Teknologjitë moderne të punës na e mundësojnë ofrimin e produkteve cilësore dhe të veçanta për tregun global si: temperim-kalitja e xhamit, emajlimi i xhamit, printimi digjital me ngjyra të ndryshme qeramike, arti dekorativ i xhamit, përpunimin e gravurave, fazetave si dhe shpuarjen, gërryerjen dhe lustrimin e tyre në dimensione të mëdha deri 2800mm x 4800mm ku tejkalon standartet e xhamit të zakonshëm.<br/><br/> Suksesi jonë vazhdon të jetë kënaqësia e klientëve tanë.",
+        "content_en": "M-Technologie, with the most modern factory in the country and the region, processes glass for facades, doors and windows, shower cabins, interior applications, kitchens, partitions, furniture, etc. <br /><br />Modern work technologies enable us to offer quality and unique products for the global market, such as tempered glass, glass enameling, digital printing with various ceramic colors, decorative glass art, engraving, bevelling, as well as cutting, drilling, and polishing in large dimensions up to 2800mm x 4800mm,  surpassing the standards of ordinary glass. <br /><br />Our success continues to be the satisfaction of our customers.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "EksterierLabel",
+        "content_al": "Eksterier",
+        "content_en": "M-Technologie, with the most modern factory in the country and the region, processes glass for facades, doors and windows, shower cabins, interior applications, kitchens, partitions, furniture, etc. <br /><br />Modern work technologies enable us to offer quality and unique products for the global market, such as tempered glass, glass enameling, digital printing with various ceramic colors, decorative glass art, engraving, bevelling, as well as cutting, drilling, and polishing in large dimensions up to 2800mm x 4800mm,  surpassing the standards of ordinary glass. <br /><br />Our success continues to be the satisfaction of our customers.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "EnterierLabel",
+        "content_al": "Enterier",
+        "content_en": "Exterior",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "DekorativeLabel",
+        "content_al": "Dekorative",
+        "content_en": "Interior",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "FASADAXHAMISpiderLabel",
+        "content_al": "FASADË XHAMI (SPIDER)",
+        "content_en": "Decorative",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "FASADËDHELLANTERINËSPIDERLabel",
+        "content_al": "FASADË DHE LLANTERINË SPIDER",
+        "content_en": "GLASS FACADE (SPIDER) ",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "MULESËÇATIE(STREHË)Label",
+        "content_al": "MULESË ÇATIE(STREHË)",
+        "content_en": "SPIDER FACADE AND SPIDER BALUSTRADE",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "STEHË KONZOLLË",
+        "content_al": "STEHË KONZOLLË",
+        "content_en": "ROOF COVER",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "STREHËDHEMBËSHTETJENGAPOSHTË",
+        "content_al": "STREHË DHE MBËSHTETJE NGA POSHTË",
+        "content_en": "CONSOLE ROOF",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "STREHËDHEMBËSHTETJENGALARTËMELITAR",
+        "content_al": "STREHË DHE MBËSHTETJE NGA LARTË ME LITAR",
+        "content_en": "ROOF AND SUPPORT FROM BELOW ",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "RRETHOJËEksterierLabel",
+        "content_al": "RRETHOJË",
+        "content_en": "ROOF AND SUPPORT FROM ABOVE WITH ROPES",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "RRETHOJËTERASEEksterierLable",
+        "content_al": "RRETHOJË TERASE",
+        "content_en": "TERRACE ENCLOSURE",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "RRETHOJËTERASEEksterierLable",
+        "content_al": "RRETHOJË TERASE",
+        "content_en": "TERRACE ENCLOSURE",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "RRETHOJËAKUSTIKEEksterierLabel",
+        "content_al": "RRETHOJË AKUSTIKE",
+        "content_en": "ACOUSTIC ENCLOSURE",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "RRETHOJËMEPULTEksterierLabel",
+        "content_al": "RRETHOJË ME PULT",
+        "content_en": "ENCLOSURE WITH REMOTE CONTROL",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "RRETHOJËMERAMJEEksterierLabel",
+        "content_al": "RRETHOJË ME RAMJE",
+        "content_en": "ENCLOSURE WITH FOLDING",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "RRETHOJËMERAMJEEksterierLabel",
+        "content_al": "RRETHOJË ME RAMJE",
+        "content_en": "ENCLOSURE WITH SLIDING",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "RRETHOJËNDARËSEEksterieLabel",
+        "content_al": "RRETHOJË NDARËSE",
+        "content_en": "PARTITION WALL",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "DYEREnterierLabel",
+        "content_al": "DYER",
+        "content_en": "DOORS",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "DYERTËBRENDSHMEEnterierLabel",
+        "content_al": "DYER TË BRENDSHME",
+        "content_en": "INTERIOR DOORS",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "NDARJETËHAPËSIRAVEEnterierLabel",
+        "content_al": "NDARJE TË HAPËSIRAVE",
+        "content_en": "SPACE DIVIDERS",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "NDARJETËHAPËSIRAVEEnterierLabel",
+        "content_al": "NDARJE TË HAPËSIRAVE",
+        "content_en": "SPACE DIVIDERS",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "DYSHEMENGAXHAMIEnterierLabel",
+        "content_al": "DYSHEME NGA XHAMI",
+        "content_en": "GLASS FAÇADE",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "SHKALLËNGAXHAMIEnterierLabel",
+        "content_al": "SHKALLË NGA XHAMI",
+        "content_en": "GLASS STAIRCASE",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "DUSHKABINAEnterierLabel",
+        "content_al": "DUSH KABINA",
+        "content_en": "SHOWER ENCLOSURES",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "MOBILIERIKUZHINAEnterierLabel",
+        "content_al": "MOBILIERI KUZHINA",
+        "content_en": "KITCHEN FURNITURE",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "TAVOLINËDOLLAPEETJEnterierLabel",
+        "content_al": "TAVOLINË, DOLLAPE ETJ.",
+        "content_en": "TABLES, CABINETS, ETC.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "XHAMPËRKABINAEnterierLabel",
+        "content_al": "XHAM PËR KABINA",
+        "content_en": "GLASS FOR CABINS",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "XHAMPËRASHENSORËEnterierLabel",
+        "content_al": "XHAM PËR ASHENSORË",
+        "content_en": "GLASS FOR ELEVATORS",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "KREATIVREZINAdekorative",
+        "content_al": "KREATIV REZINA",
+        "content_en": "CREATIVE RESIN",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "XHAMMENGJYRËdekorative",
+        "content_al": "XHAM ME NGJYRË",
+        "content_en": "COLORED GLASS",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "PRINTIMDIGJITALdekorative",
+        "content_al": "PRINTIM DIGJITAL",
+        "content_en": "DIGITAL PRINTIN",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Fasadëxhami(spider)dekorative",
+        "content_al": "Fasadë xhami (spider)",
+        "content_en": "Glass facade (spider)",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Mbulesëçatie(strehë)dekorative",
+        "content_al": "Mbulesë çatie (strehë)",
+        "content_en": "Roof cover",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Rrethojëdekorative",
+        "content_al": "Rrethojë",
+        "content_en": "Enclose",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "NdarjetëbrendshmeLabel",
+        "content_al": "Ndarje të brendshme",
+        "content_en": "Internal partitioning",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "NdarjetëbrendshmeDescriptionText",
+        "content_al": "Ndarje e hapësirave të zyreve. Punë atraktive me sistem të hapur të punës duke përdorur xhamin si element ndarës në sektore.<br/> Ndarje e hapësirave afariste. Qendra tregtare, hotele, motele, restaurante.<br/>Produkte innovative, estetike dhe me dizajne të ndryshme!<br/>Ndarje e hapësirave administrative, objekteve publike dhe hapësirave të objekteve shoqërore. Produkte innovative, estetike dhe me dizajne të ndryshme!",
+        "content_en": "Office space partitioning. Attractive work with open work systems using glass as a dividing element in sectors.<br/>  Commercial space partitioning.<br/>  Shopping centers, hotels, motels, restaurants. <br/>  Innovative, aesthetic and diverse design products!<br/>  Administrative space partitioning, public facilities, and social space partitioning. Innovative, aesthetic and diverse design products!",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "NdertoDritarenNeMinutLabel",
+        "content_al": "Ndërto dritarën tënde në minut!",
+        "content_en": "Build your window in minutes!",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "ZgjidhjeSofistikuarPërBanjonTënde",
+        "content_al": "Zgjidhje e sofistikuar për banjon tënde.",
+        "content_en": "Sophisticated solution for your bathroom.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "ZgjidhjeSofistikuarPërBanjonTëndeTeksti",
+        "content_al": "Model i vendosur nga niveli i dyshemesë <br/>Modeli i vendosur nga niveli i vaskës<br/> Derë njëkrahëshe me fikse <br/>Derë njëkrahëshe rrëshqitëse me fikse <br/>Modeli i derës njëkrahëshe me rrëshqitëse <br/>Derë dykrahëshme me fikse <br/>  …ideale edhe për fëmijët tuaj!<br/>Dizajne të palimituara në çdo model për banjon tënde.<br/><br/>Kreativ Rezin<br/>Ringjallje e artit klasik në jetën modern<br/>Aplikimi në objekte të ndryshme si:<br/>Religjioze<br/>Hotelieri<br/>Objekte kulti<br/>Adminstrative<br/>Sipërfaqe dekoruese etj.<br/>Ngjyrosja dhe finalizimi .<br/>Në bazë të zgjedhjes suaj bëhet dizajnimi i modelit dhe përzgjedhja e ngjyrës.<br/>Ndërthurje e teknikës digjitale me atë manuale.<br/>Mundësi aplikimi pa limit i vitrazhit si në enterier ashtu edhe ne aksesorë të ndryshëm.<br/>",
+        "content_en": "Models installed from the floor level <br/>Models installed from the sink level <br/>Single door with fixed glass <br/>Single sliding door with fixed glass <br/>Single sliding door model <br/>Double door with fixed glass <br/> ...also ideal for your children!<br/>Unlimited designs in every model for your bathroom.<br/><br/>Kreativ Rezin<br/>Reviving classical art in modern life<br/>Application in different objects such as:<br/>Religious<br/>Hospitality<br/>Cultural objects<br/>Administrative<br/>Decorative surfaces etc.<br/>Coloring and finishing.<br/>The design of the model and the choice of color are based on your preference.<br/>Combination of digital and manual techniques.<br/>Limitless application of stained glass in interior as well as in various accessories.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "JepiNgjyrëAmbientitTuaj",
+        "content_al": "Jepi ngjyrë ambientit tuaj!",
+        "content_en": "Add color to your environment!",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "JepiNgjyrëAmbientitTuajTeksti",
+        "content_al": "Një zonë e pastër dhe bashkëkohore e pritjes përcakton tonin dhe stilin e biznesit tuaj me muret prej qelqi që janë të lehtë për t’u ruajtur dhe ofrohen në llojllojshmëri ngjyrash. <br/> Xham sigurues i bërthamave tek ashensorët <br/>  Ndarja e hapësirave të brenshme në terminale. <br/>   Xhami si element kufizues. ",
+        "content_en": "A clean and contemporary waiting area sets the tone and style of your business with glass walls that are easy to maintain and come in a variety of colors. <br/> Tempered glass for elevators <br/> Division of indoor spaces in terminals. <br/> Glass as a limiting element.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "PrintimDigjitalnëXham",
+        "content_al": "Printim digjital në xham",
+        "content_en": "Digital printing on glass",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "PrintimDigjitalnëXhamTeksti",
+        "content_al": "Dekoro ambientin tuaj me stil!<br/>Bëje zgjidhjen e duhur me dizajne shumë ngjyrëshe.<br/>Mobileri<br/>Ambient kreativ i punës <br/>Përdorim në çdo hapësirë:<br/>Kuzhina me stile të ndryshme<br/>Tavolina të salloneve<br/>Tavolina të punës<br/>Tavolina të lokaleve<br/>Dekore të ndryshme në enterier.<br/>Trego kreativitet<br/>Tabela të ndryshme me dizajne kreative.<br/>Ndarje të grupacioneve brenda hapësirave.",
+        "content_en": "Make the right choice with colorful design.<br/>Furniture<br/>Creative working environment<br/>Use in any space:<br/>Kitchens with different styles<br/>Living room tables<br/>Work tables<br/>Restaurant tables<br/>Various interior decorations<br/>Show creativity<br/>Different boards with creative designs.<br/>Grouping division within spaces.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "QëndrueshmëriElartëDheMirëmbajtjeElehtë",
+        "content_al": "Qëndrueshmëri e lartë dhe mirëmbajtje e lehtë",
+        "content_en": "High durability and easy maintenance",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "ProduktetNgaPVC",
+        "content_al": "Produktet nga PVC",
+        "content_en": "PVC Products",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "M-Technologie-ofron-dyer-dhe-dritare-nga-PVC,-përmes-teknologjisë-dhe-paisjeve-Label",
+        "content_al": "M-Technologie ofron dyer dhe dritare nga PVC, përmes teknologjisë dhe paisjeve më moderne për përpunimin e plastikës. Programi gjithëpërfshirës i montimit plotëson të gjitha kërkesat aktuale të prodhimit të dyerve dhe dritareve nga PVC.<br /><br />Profilet e plastikës janë të prodhuesve gjerman Profine dhe Schüco dhe janë të shënuara me etiketën 'Greenline' që nënkupton përdorimin e elementeve jo të dëmshme për mjedisin jetësor.Sistemet nga PVC ofrojnë plotësimin e kërkesave fizike ndërtimore si: izolimi termik, izolimi akustik, ajrosja, shfrytëzimi i lehtë i hapësirave, mbrojtje efektive ndaj vjedhjeve dhe pastrim e mirëmbajtje të lehtë.",
+        "content_en": "M-Technologie offers doors and windows made of PVC, through the use of the most modern technology and equipment for plastic processing. The comprehensive installation program meets all current requirements for the production of PVC doors and windows. <br /><br /> The plastic profiles come from German manufacturers Profine and Schüco and are marked with the 'Greenline' label, which implies the use of environmentally friendly elements. PVC systems provide the fulfillment of physical construction requirements such as thermal insulation, acoustic insulation, ventilation, easy use of spaces, effective protection against theft, and easy cleaning and maintenance.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Më-shumë-LabellProducts",
+        "content_al": "më shumë",
+        "content_en": "more",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "TeknologjiaEprodhimit",
+        "content_al": "Teknologjia e prodhimit",
+        "content_en": "Production technology",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "MekanizmiLabel",
+        "content_al": "Mekanizmi",
+        "content_en": "Mechanism",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "RolentetROLAPLUS",
+        "content_al": "Rolentet ROLA PLUS",
+        "content_en": "Roller blinds ROLA PLUS",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "NdjehuKomodMeProduktetTonaKualitative",
+        "content_al": "Ndjehu komod me produktet tona kualitative!",
+        "content_en": "Feel comfortable with our high-quality products!",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "ProduktetNgaAlumini",
+        "content_al": "Produktet nga alumini",
+        "content_en": "Aluminum products",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Profilet-vertikale-dhe-horizontale-të-këtij-sistemi-të-fasadës-kombinohen-lehtë-me--Label",
+        "content_al": "Profilet vertikale dhe horizontale të këtij sistemi të fasadës kombinohen lehtë me sisteme të tjera që kanë efikasitet të lartë të energjisë. <br /><br /> M-Technologie me fabrikën për përpunimin e aluminit tashmë me përvojë dhjetë vjeçare ofron shumë mundësi për realizimin e elementeve të ndryshme. Teknologjia më moderne e prodhimit na mudnëson që të ofrojmë produkte cilësore dhe të veqanta për tregun global si: <br /> Fasda strukturale, fasada gjysmëstrukturale, fasada kontinuale, fasada ventiluese, dyer dhe dritare me funksione të ndryshme.",
+        "content_en": "The most modern production technology enables us to offer high-quality and unique products for the global market such as:<br /><br /> Structural facades, semi-structural facades, continuous facades, ventilated facades, doors and windows with different functions.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "paragrafiPareTekRrethNeshe",
+        "content_al": "M-Technologie është fabrikë e madhe dhe moderne me eksperiencë tani më 15 vjeçare në projektimin, prodhimin dhe montimin e fasadave, dyerve dhe dritareve nga alumini dhe PVC-ja, përpunimin e xhamit dhe prodhimin e kanaleve të ventilimit. Fabrika M-Technologie, në strukturën organizative përbëhet nga sektori i projektimit, prodhimit, montimit dhe administrata. Në M-Technologie punojnë mbi 250 punëtorë. I tërë procesi i prodhimit bëhet në një hapësirë shumë moderne, të gjerë dhe të përshtatshme për punë. Fabrika me sipërfaqe të mbuluar prej 20’000 m² ndodhet në fshatin Lebanë, në një truall prej 30 hektarësh.",
+        "content_en": "M-Technologie is a large and modern factory with 15 years of experience in designing, producing, and installing aluminum and PVC facades, doors and windows, glass processing, and ventilation duct production. The M-Technologie factory is organized into design, production, installation, and administrative sectors. Over 200 workers are employed at M-Technologie. The entire production process takes place in a very modern, spacious, and adaptable workspace. The factory, which covers an area of 20,000 square meters, is located in the village of Lebanë, on a 30-hectare plot of land.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "paragrafiDyteTekRrethNeshe",
+        "content_al": "M-Technologie me kapacitetin e saj të lartë prodhues ju ofron produkte me cilësi dhe forma që i përshtaten çdo kërkese.<br/> <br/> Çdo punë jep frytet e veta nëse bëhet me pasion dhe përkushtim të plotë. Ai përkushtim reflekton në prodhimet tona të punuara deri në detajet e fundit.Aplikimi i materialeve nga brendet më të njohura si dhe kontrolli rigoroz i kualitetit në të gjitha fazat e projektimit, prodhimit dhe montimit, është garancë e kualitetit të produkteve tona.<br/>",
+        "content_en": "M-Technologie, with its high production capacity, offers products of quality and shapes that meet every demand. Every job yields its fruit if done with passion and complete dedication. This dedication is reflected in our products, crafted down to the finest detail. The use of materials from well-known brands, as well as rigorous quality control in all phases of design, production, and installation, is a guarantee of the quality of our product.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "PershkrimiBaneritTekFaqjaProdukteve",
+        "content_al": "Zgjidhje përfekte për ëndrrën tuaj",
+        "content_en": "The perfect solution for your dream",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "PerkthimiPareArtConstruction",
+        "content_al": "Është realizuar në Prishtinë me sipëfaqe prej 6600 m2. Ky projekt është në një zonë e cila karakterizohet me shumëllojshmëri të ndërtesave, si nga destimini ashtu edhe nga arkitektura, do të jetë qendra e parë e zyrave në atë zonë e cila ka sjellë freski dhe inovacion në Lagjen Mati 1. E përberë nga një vëllim unik dhe e mbështjellë me qelq në te gjitha anët mundëson që drita dhe vizurat të krijojnë një efekt të madh hapësinor, ku me anë te brisoleve do të mund ta kontrollojmë dritë-hijen.",
+        "content_en": "It was realized in Prishtina with an area of 6600 m2. This project is in an area characterized by a variety of buildings, both in terms of purpose and architecture. It will be the first office center in that area, which has brought freshness and innovation to Mati 1 Neighborhood. Comprised of a unique volume and surrounded by glass on all sides, it allows light and views to create a great spatial effect, where blinds will control light and shadow.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "DetajetEProjektitPerkthim",
+        "content_al": "Detajet e projektit",
+        "content_en": "Project Details",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "MaterialetLabel",
+        "content_al": "Materialet",
+        "content_en": "Materials",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "LLOJIIBIZNESITlabel",
+        "content_al": "LLOJI I BIZNESIT",
+        "content_en": "BUSINESS TYPE",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "OBJECTLabel",
+        "content_al": "OBIJEKTI",
+        "content_en": "OBJECT",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "STATUSlabel",
+        "content_al": "STATUS",
+        "content_en": "STATUS",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "GaleriaLabel",
+        "content_al": "Galeria",
+        "content_en": "Gallery",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "ProjektetEkategorisLabel",
+        "content_al": "Projektet të kategorisë",
+        "content_en": "Projects of category",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Administrate*Label",
+        "content_al": "Administratë",
+        "content_en": "Administration",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "QendërTregtare*Label",
+        "content_al": "Qendër Tregtare",
+        "content_en": "Shopping center",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Residencial*Label",
+        "content_al": "Residencial",
+        "content_en": "Residencial",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Kulturor*Label",
+        "content_al": "Kulturor",
+        "content_en": "Cultural",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Spital*Label",
+        "content_al": "Spital",
+        "content_en": "Hospital",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Shtepi*Label",
+        "content_al": "Shtëpi",
+        "content_en": "House",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "HapesirePublike*Label",
+        "content_al": "Hapesire Publike",
+        "content_en": "Public Space",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Qeveritar*Label",
+        "content_al": "Qeveritar",
+        "content_en": "Governmental",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Zyra+Selia*Label",
+        "content_al": "Zyra + Selia",
+        "content_en": "Office + Headquarters",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "QenderTregtare*Label",
+        "content_al": "Qender Tregtare",
+        "content_en": "Shopping center",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "ProjektetErealizuaraLabel",
+        "content_al": "Projektet e realizuara",
+        "content_en": "Realised Projects",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "ShowingLabel",
+        "content_al": "Duke shfaqur",
+        "content_en": "Showing",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "ProjekteLabel",
+        "content_al": "projekte",
+        "content_en": "projects",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "FinalizuarLabel",
+        "content_al": "Finalizuar",
+        "content_en": "Finalized",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "FasadëExhamitLabel",
+        "content_al": "Fasadë e xhamit",
+        "content_en": "Glass fasade",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "FasadaVazhdueseLabel",
+        "content_al": "Fasada vazhduese",
+        "content_en": "Continual Fasade",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Xhamtrepalësh:GuardianLabel",
+        "content_al": "Xham trepalësh: Guardian SN 70-37",
+        "content_en": "Three peace glass: Guardian SN 70-37",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "XhamIprintuarLabel",
+        "content_al": "Xham i printuar",
+        "content_en": "Printed glass",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "PlanifikimiDheRealizimiDeriNfund",
+        "content_al": "Planifikim, projektim e realizim deri në detajet më të vogla",
+        "content_en": "Planning, designing, and implementing down to the smallest details.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "pergjegjsiaSocialeLabel",
+        "content_al": "Përgjegjsia Sociale",
+        "content_en": "Social responsibility",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "SwisDiamonPrishtinePershkrimiPare",
+        "content_al": "Swiss Diamond Hotel është një hotel luksoz me pesë yje i vendosur në Lugano, i mirënjohur në të gjithë Zvicrën aq sa në Italinë Veriore për ekskluzivitetin e tij dhe përsosmërinë e shërbimeve të ofruara. Në një cep magjepsës të liqenit të Luganos, i tejkaluar nga pamja e magjepsur e bjeshkëve, Swiss Diamond Hotel kombinon uniken, madhështinë e Alpeve me romantizmin e Liqenit në Lugano. Pas një fasade elegante, moderne, është një hotel me të vërtetë luksoz me akomodim ngrënie dhe ambiente të kohës së lirë që sigurisht renditet ndër më të mirët në Zvicër. Dhoma dhe apartamente luksoze lejojnë udhëtarët e kohës së lirë ose të biznesit të vlerësojnë atmosferën ekskluzive të këtij lokacioni simpatik, ku vëmendje e veçantë i është kushtuar ruajtjes së traditës së madhe të hotelit.",
+        "content_en": "Swiss Diamond Hotel is a luxurious five-star hotel located in Lugano, well-known throughout Switzerland as well as northern Italy for its exclusivity and perfection of offered services. In a captivating corner of Lake Lugano, surrounded by the breathtaking views of the mountains, Swiss Diamond Hotel combines the uniqueness and grandeur of the Alps with the romanticism of Lake Lugano. Behind an elegant, modern facade lies a truly luxurious hotel with accommodation, dining, and leisure facilities that certainly ranks among the best in Switzerland. Luxurious rooms and suites allow leisure or business travelers to appreciate the exclusive atmosphere of this charming location, where special attention has been paid to preserving the great tradition of the hotel. ",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Përveçse-që-është-kompania-kryesore-në-shërbime-dhe-produkte-profesionale-pershkrimi",
+        "content_al": "Përveçse që është kompania kryesore në shërbime dhe produkte profesionale, stihl ofron një gamë të gjerë të mjetëve të punës nga markat profesionale të njohura. STIHL KOSOVA gjendet në zonën industriale Prishtinë - Ferizaj.",
+        "content_en": "In addition to being the leading company in professional services and products, Stihl offers a wide range of work tools from well-known professional brands. STIHL KOSOVO is located in the industrial zone of Pristina - Ferizaj.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Fasada-50-FK-dhe-FEAL-Termo-65(ESG-6mm-Float-Extra-Clear-/-16-AL-/-44.2-Premium-2)-label",
+        "content_al": "Fasada 50 FK dhe FEAL Termo 65(ESG 6mm Float Extra Clear / 16 AL / 44.2 Premium 2)",
+        "content_en": "Facade 50 FK and FEAL Termo 65 (ESG 6mm Float Extra Clear / 16 AL / 44.2 Premium 2)",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "PrishtinaMallPershkrimiLabel",
+        "content_al": "Prishtina Mall do të jetë udhëheqës në sektorin e qendrave tregtare dhe argëtuese në Juglindje të Evropës. Gjendet ne magjistralen Prishtinë – Ferizaj, kilometri i 10-të, 10000. Sistemi i aplikuar në objektin e Prishtina Mall në fasade vertikale dhe ne skylight, eshte system me fasadë gjysmestrukurale me kapak dekorativ në vertikale dhe horizontale me system Schuco FWS 60 HI. Xhami dyshtresor I aplikuar në fasaden vertikale “SunGuard® SuperNeutral (SN) 40/23” mundëson transmetim shumë të lartë të dritës nayrale dhke siguruar edhe kursim të energjisë përmes shtresës mbrojtjëse diellore dhe izolimit termik (solar protection and thermal insulation). Xhami treshtresor i aplikuar në fasaden e Skylight “SunGuard® SNX 50 HT (CE) është xhami i gjenerates së fundit, qe kombinon mbrojtjen më të lartë diellore me transmetim të lartë të dritës, që ul kerkesën për ndriqim artificial, ajër te kondicionuar dhe ngrohje.",
+        "content_en": "Prishtina Mall will be a leader in the retail and entertainment sector in Southeast Europe. It is located on the Prishtina-Ferizaj highway, at kilometer 10, 10000. The system applied in the Prishtina Mall building on the vertical façade and skylight is a semi-structural façade system with a decorative cover on the vertical and horizontal using the Schuco FWS 60 HI system. The double-glazed glass applied on the vertical façade “SunGuard® SuperNeutral (SN) 40/23” provides very high transmission of natural light while also ensuring energy savings through solar protection and thermal insulation. The triple-glazed glass applied on the Skylight façade “SunGuard® SNX 50 HT (CE)” is the latest generation glass, which combines the highest solar protection with high light transmission, reducing the need for artificial lighting, air conditioning, and heating.\"",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Fasadë-gjysmestrukurale-me-kapak-dekorativ-në-vertikale-dhe-horizontale-me-system-Schuco-FWS-60-HI.-Label",
+        "content_al": "Fasadë gjysmestrukurale me kapak dekorativ në vertikale dhe horizontale me system Schuco FWS 60 HI.",
+        "content_en": " Semi-structural façade system with a decorative cover on the vertical and horizontal using the Schuco FWS 60 HI system.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Xhami-dyshtresor-i-aplikuar-në-fasaden-vertikale-“SunGuard®-SuperNeutral-(SN)-40/23”.-Label",
+        "content_al": "Xhami dyshtresor i aplikuar në fasaden vertikale “SunGuard® SuperNeutral (SN) 40/23”.",
+        "content_en": "Double-glazed glass applied on the vertical façade “SunGuard® SuperNeutral (SN) 40/23”",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Xhami-treshtresor-i-aplikuar-në-fasaden-e-Skylight-“SunGuard®-SNX-50-HT-(CE)-label",
+        "content_al": "Xhami treshtresor i aplikuar në fasaden e Skylight “SunGuard® SNX 50 HT (CE)",
+        "content_en": "Triple-glazed glass applied on the Skylight façade “SunGuard® SNX 50 HT (CE)”",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Akorda-The-Residence-Label",
+        "content_al": "Akorda, pallati presidencial është vendi zyrtar i punës i presidentit të Kazakhstanit, i vendosur në kryeqytetin Astana. Kjo ndërtesë përmban infrastrukturën më moderne dhe është projektuar në një stil tradicional, ai përfaqëson simbolin e Republikës së re të Kazakhstanit. Lartësia e ndërtesës (përfshirë gomën) është 80 metra. Kati i parë përfshin një sallë të madhe qendrore, sallën e konferencave të shtypit, sallën gala dhe kopshtin e dimrit. Kati i dytë përfshin zyra, ndërsa kati i tretë përdoret për ngjarje ndërkombëtare, dhe përfshin salla të ndryshme (salla e mermerit, salla e artë, salla ovale, salla orientale, salla e bisedimeve të zgjatura. Kati i katërt përfshin një sallë takimesh për qeverinë e republikës dhe bibliotekën.",
+        "content_en": "",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Teatri-Klasik-Operes-dhe-Baletit-Pershkrimi",
+        "content_al": "Teatri Shtetëror i Operas dhe Baletit, ëndërr e Presidentit Nazarbayev, si një simbol kulturor i këtij vendi.Teatri mbulon një sipërfaqe prej 64,000 metrash katrorë, dhe ndodhet në bregun e majtë të lumit Ishim. Auditori kryesor: 1.250 vende, nga të cilat 441 janë në stalla (zvogëluar në 373 nëse rreshtat e përparëm hiqen për të siguruar hapësirë për gropën e orkestrës), 110 janë në kutitë e katit pëdhesë, 411 janë në rangun e parë, të dytë dhe të tretë, 6 janë në ballkonin Presidencial dhe 282 janë në galeri. Auditoriumi ka për qëllim tingullin natyror, jo të përforcuar dhe është krijuar për të siguruar që muzika vokale dhe instrumentale të ketë cilësi dhe besnikëri optimale të zërit në të gjithë regjistrat. Është një nga teatrot më të mira në botë: një sintezë e përsosur e stilit klasik dhe teknologjisë së përparuar, e ndërtuar me vëmendje të madhe për detajet dhe materialet me cilësi të lartë.",
+        "content_en": "The State Opera and Ballet Theater, the dream of President Nazarbayev, is a cultural symbol of this country. The theater covers an area of 64,000 square meters and is located on the left bank of the Ishim River. The main auditorium has 1,250 seats, of which 441 are in the stalls (reduced to 373 if the front rows are removed to provide space for the orchestra pit), 110 are in the small boxes, 411 are in the first, second, and third tiers, 6 are in the Presidential balcony, and 282 are in the gallery. The auditorium is designed for natural, not amplified, sound and is created to ensure optimal quality and fidelity of vocal and instrumental music throughout all registers. It is one of the best theaters in the world: a perfect synthesis of classical style and advanced technology, built with great attention to detail and high-quality materials.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "BA-center-Astana-Kazakistan-Pershkrimi",
+        "content_al": "Kjo ndërtesë 10-katëshe gjendet në kryeqytetin Nur-Sultan, me zyrat moderne dhe efikase të Mabetex Group, një hotel elegant dhe apartamente luksoze.",
+        "content_en": "This 10-story building is located in the capital city of Nur-Sultan, featuring modern and efficient offices for the Mabetex Group, an elegant hotel, and luxurious apartments.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Banka-Ekonomike-Kosove-Pershkrimi",
+        "content_al": "Cilësia dhe qëndrueshmëria janë sinonim i punës tonë tash e më shumë se 10 vite. Banka Ekonomike – Sheshi “Nëna Tereza” në Prishtinë, shfaqë elegancën e punës dhe cilësinë e punës së bërë nga M-Technologie. Në formë kubi e mveshur me sistemin e fasadës nga alumini Schüco FS 50 SG shtojnë veçantinë dhe bukurinë e objektit të Bankës Ekonomike, në qendër të Prishtinës. Banka Ekonomike është e vendosur afër Swiss Diamond Hotel Pristina, përballë Qeverisë dhe Parlamentit si dhe vetëm disa hapa larg Teatrit Kombëtar dhe Zyrës Qëndrore të Këshillit Evropian. Bankë e orientuar në rritje të qëndrueshme dhe kualitative, shërbime cilësore dhe standarde të larta profesionale.",
+        "content_en": "Quality and sustainability have been synonymous with our work for over 10 years. The Economic Bank - “Mother Teresa” Square in Pristina showcases the elegance and quality of the work done by M-Technology. In a cube shape dressed with the aluminum facade system Schüco FS 50 SG, they add uniqueness and beauty to the object of the Economic Bank, in the center of Pristina. The Economic Bank is located near the Swiss Diamond Hotel Pristina, in front of the Government and Parliament, as well as just a few steps away from the National Theater and the Central Office of the European Council. A bank oriented towards sustainable and qualitative growth, quality services, and high professional standards. \"",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Brunes-Space-Shqiperi-Pershkrimi",
+        "content_al": "Kompania Brunes u themelua në vitin 1994, një kompani fillimisht modeste e cila shumë shpejt njohu zgjerim dhe zhvillim të madh. Brunes sot është lider në Shqipëri dhe jashtë saj për produktet që ofron. Objekti ndodhet në Tiranë, e ndërtuar me vëmendje të madhe për detajet dhe materialet me cilësi të lartë.",
+        "content_en": "The company Brunes was founded in 1994, initially a modest company which soon saw significant expansion and development. Brunes is now a leader in Albania and abroad for the products it offers. The building is located in Tirana, built with great attention to detail and high-quality materials.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Qendra-Kombetare-Shkencore-Onkologjike-Kazakistan-Pershkrimi",
+        "content_al": "Qendra Kombëtare Shkencore Onkologjike paraqet një arkitektur unike, ku struktura e objekti e relizuar në formë të shkallëzuar (zik–zak) dhe llojllojshmëri të sistemeve të inkurpuruara të fasadave si dhe të punuar nga profesionist të fushave, e bënë këtë objekt me rëndësi shumë të veçantë. Sistemet e fasadave të realizuar në këtë objekt me siperfaqe mbi 25mij m² janë",
+        "content_en": "The Oncology Hospital in Kazakhstan features a unique architecture, where the structure of the building is realized in a stepped (zig-zag) form and the incorporation of various façade systems worked on by field professionals make this project of special importance. The façade systems implemented in this project, with a surface area of over 25,000 m².",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Kompania-Brunes-u-themeluar-në-vitin-1994-Label",
+        "content_al": "Kompania Brunes u themeluar në vitin 1994, një kompani fillimisht modeste e cila shumë shpejt njohu zgjerim dhe zhvillim të madh. Brunes sot është lider në Shqipëri dhe jashtë saj për produktet që ofron. Objekti ndodhet në Tiranë, e ndërtuar me vëmendje të madhe për detajet dhe materialet me cilësi të lartë.",
+        "content_en": "The company Brunes was founded in 1994, initially a modest company which soon saw significant expansion and development. Brunes is now a leader in Albania and abroad for the products it offers. The building is located in Tirana, built with great attention to detail and high-quality materials.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Fasadë-e-Ventiluar-Butech-Porcelanosa-label",
+        "content_al": "Fasadë e Ventiluar Butech-Porcelanosa",
+        "content_en": "Butech-Porcelanosa Ventilated Façade",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Fasadë-alumini-Schüco-FWS-60-HI-Label",
+        "content_al": "Fasadë alumini Schüco FWS 60 HI",
+        "content_en": "Schüco FWS 60 HI aluminum façade",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Guardian-Super-Neutral-40/23-HT-Label",
+        "content_al": "Xhami: Guardian - Super Neutral 40/23 HT",
+        "content_en": "Glass: Guardian - Super Neutral 40/23 HT",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Fasadë-e-Ventiluar-FEAL-label",
+        "content_al": "Fasadë e Ventiluar FEAL",
+        "content_en": "FEAL Ventilated Façade",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Fasadë-Xhami-gjysmestrukturale-label",
+        "content_al": "Fasada e xhamit gjysmëstrukturale me system Schüco FWS 50.SI, dhe dritare me hapje senclap AWS 114 SG SI. Dritare me hapje normale AWS 75 SI si dhe dyer të aluminit ADS 75 SI.",
+        "content_en": "Semi-structural glass façade with Schüco FWS 50.SI system, and windows with Senclap AWS 114 SG SI opening. Normal opening windows AWS 75 SI, as well as ADS 75 SI aluminum doors.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Xhami-treshtresore-i-temperuar-label",
+        "content_al": "Xhami i treshtresor i temperuar dhe sigurues SG HP Bright Green mundëson refleksion dhe mbrojtje nga rrezatimi si dhe xhami i brendshëm me folie reduktuese ndaj zhurmës.",
+        "content_en": "Tempered and laminated glass SG HP Bright Green for the basement level enables reflection and protection from radiation, as well as interior glass with noise-reducing film",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Xhami-treshtresore-i-temperuar-single-label",
+        "content_al": "Xhami i treshtresor i temperuar dhe sigurues SG HP Bright Green.",
+        "content_en": "Tempered and laminated glass SG HP Bright Green for the basement level.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Fasada-e-xhamit-gjysmëstrukturale-me-system-Schüco-Label",
+        "content_al": "Fasada e xhamit gjysmëstrukturale me system Schüco Ad-on Façade AOC 50 SI, që mundëson fiksimi direkt në strukturen metalike.",
+        "content_en": "Semi-structural glass façade with Schüco Ad-on Façade AOC 50 SI system, which allows for direct fixing onto the metal structure.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Fasada-e-ventiluar-me-konstruksion-të-dukshëm-Label",
+        "content_al": "Fasada e ventiluar me konstruksion të dukshëm me panel dekorativ FunderMax me shkallë më të lartë të resistencës ndaj zjarrit, si dhe thellësia e fasadës 45cm mundëson që izolimi termik dhe akustik të jetë maksimal.",
+        "content_en": "Ventilated façade with visible construction using FunderMax decorative panels with a higher level of fire resistance, and a depth of 45cm, which enables maximum thermal and acoustic insulation.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Fasada-e-ventiluar-me-llamarinë-të-aluminit-Label",
+        "content_al": "Fasada e ventiluar me llamarinë të aluminit të plastifikuar me theksim të profilve në vertikalitet si dhe thellësia e fasadës 45cm mundëson që izolimin termik dhe akustik të jetë maksimal.",
+        "content_en": "Ventilated façade with plastic-coated aluminum sheets with an emphasis on vertical profile shapes, and a depth of 45cm, which enables maximum thermal and acoustic insulation.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Sistemi-i-fasades:-Fasade-Strukturale-Schüco-FWS-50-Label",
+        "content_al": "Sistemi i fasades: Fasade Strukturale Schüco FWS 50 SG, ngjyra e profileve RAL 7016 matt, xhami termopaket: xhami i jashtëm i kalitur ESG 6mm Super Neutral 70 HT dhe xhami i brendshëm, xham sigurues Lami Glass 4.4.2mm Extra Clear, si dhe xhamat me printim me pikeza te gjelbërta dhe të kaltërt. Dritaret senclap me sistem Schüco AWS 114 me profil të mshefur. Dritaret dhe dyert me sitemin Schüco AWS/ADS 60 Ndarjet e brendshme me sistem Faraone Spazio.",
+        "content_en": "Façade system: Schüco FWS 50 SG Structural Façade, profiles in RAL 7016 matt color, double-glazed glass: 6mm tempered ESG Super Neutral 70 HT for the outer pane and 4.4.2mm laminated safety glass Extra Clear for the inner pane, as well as printed glass with green and blue dots. Tilt-and-turn windows with Schüco AWS 114 system and concealed profiles. Windows and doors with Schüco AWS/ADS 60 system. Interior partitions with Faraone Spazio system.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Një-nga-projektet-e-para-të-realizuara-nga-Grupi-Mabetex-Label",
+        "content_al": "Një nga projektet e para të realizuara nga Grupi Mabetex në Astana. Ky aeroport është çertifikuar dhe homologuar për fluturime ndërkombëtare. Fusha e parë ajrore e Astana u ndërtua në vitin 1931 në periferi të qytetit dhe u zhvillua më tej pas Luftës së Dytë Botërore. Sidoqoftë, një aeroport i ri, i cili u bë Aeroporti Ndërkombëtar Astana, u ndërtua 11 milje në jug të qytetit dhe u hap në nëntor 1963. Ai u përdor kryesisht nga Aeroflot dhe drejtoria e tij lokale. Pas transferimit të kryeqytetit nga Almaty në Astana në dhjetor 1997, aeroporti iu nënshtrua një seri rikonstruksionesh madhore nga Grupi Mabetex i cili e solli atë deri në standardet ndërkombëtare, duke përfshirë pistën aktuale 11,484ft (3.500 m). Aeroporti Ndërkombëtar i Astana ka kaluar një rinovim të madh në përgatitje për pritjen e turistëve për ekspozitën ndërkombëtare EXPO 2017.",
+        "content_en": "One of the first projects carried out by the Mabetex Group in Astana. This airport is certified and homologated for international flights. Astana's first airfield was built in 1931 on the outskirts of the city and further developed after World War II. However, a new airport, the Astana International Airport, was built 11 miles south of the city and opened in November 1963. It was mainly used by Aeroflot and its local directorate. After the capital was transferred from Almaty to Astana in December 1997, the airport underwent a series of major reconstructions by the Mabetex Group, bringing it up to international standards, including the current 11,484ft (3,500 m) runway. The Astana International Airport has undergone a major renovation in preparation for the reception of tourists for the EXPO 2017 international exhibition.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Stadiumi-i-Hokejit-në-Astana-u-përurua-në-Gusht,-2015-Label",
+        "content_al": "Stadiumi i Hokejit në Astana u përurua në Gusht, 2015. Është një arenë shtëpie me shumë qëllime që ndodhet në Astana, Kazakhstan. Ajo shërben si një arenë për Barys Astana të Kontinental Hockey League (KHL). Stadiumi përfshin: 2 sheshe patinazhi, 1 pishinë olimpike, 1 pishinë. Pallati i Akullit në Astana është homologuar dhe i certifikuar nga IIHF dhe FINA për nivelin e Lojërave Olimpike. Arena është e përbërë nga një ndërtesë kryesore me një diametër rrethor rreth 150 metra e cila strehon fushën e lojës për Hokejin e Akullit, ku qëndron spektatori dhe një numër funksionesh shtesë, të vendosura ngjitur me arenën kryesore. Zona e përdorur për të strehuar terrenin e trajnimit për hokej, fushë basketbolli / futbolli, sporte shkollore dhe funksione ndihmëse që lidhen me të, merret duke përdorur të dy nivelet e terrenit poshtë nivelit 2, me zona lartësi të dyfishtë. Në këtë mënyrë, mbulimi i zonave sportive është dytësore për të përkuar me platformën e ngritur që rrethon arenën kryesore, nivelin e qasjes në stendën e poshtme. Produktet që janë të inkorporuara në projekt: Fasada e aluminit, dyert dhe dritare nga alumini. System: Schuco FW50+HI/Glass: Guardin Sun High Selective.",
+        "content_en": "The Ice Hockey Stadium in Astana was inaugurated in August 2015. It is a multi-purpose indoor arena located in Astana, Kazakhstan. It serves as a venue for Barys Astana of the Kontinental Hockey League (KHL). The stadium includes: 2 ice rinks, 1 Olympic-sized swimming pool, 1 pool. The Ice Palace in Astana is homologated and certified by IIHF and FINA for the Olympic Games level. The arena is composed of a main building with a circular diameter of around 150 meters which houses the ice hockey field, spectator seating, and a number of additional functions adjacent to the main arena. The area used to shelter the training ground for hockey, basketball/football field, school sports and related ancillary functions is taken using both levels of the ground below level 2, with double-height areas. In this way, the coverage of the sports areas is secondary to match the raised platform surrounding the main arena, the access level to the lower stand.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Hoteli-është-I-vendosur-përballë-Qeverisë-dhe-Parlamentit-Label",
+        "content_al": "Hoteli është I vendosur përballë Qeverisë dhe Parlamentit si dhe vetëm disa hapa larg Teatrit Kombëtar dhe Zyrës Qendrore të Këshillit Evropian. Një hotel luksoz me pesë yje me tavanin e lartë, llambadarët kristalorë jep ndjesinë e një ndërtese mbretërore. Punimet e krijuara me dorë të stilistëve të njohur ndërkombëtarisht dhe sistemi I fasadës, dyerve dhe dritareve nga alumini Schüco shtojnë veçantinë dhe bukurinë e hotelit.",
+        "content_en": "The hotel is located in front of the Government and the Parliament, and just a few steps away from the National Theatre and the Central Office of the Council of Europe. A luxurious five-star hotel with high ceilings and crystal chandeliers gives the impression of a royal building. The handcrafted works of internationally renowned stylists and the Schüco aluminum facade, doors, and windows system add uniqueness and beauty to the hotel.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Nderlidhja-e-fasadave-të-aluminit-Schüco-FWS-50-me-fasadën-Label",
+        "content_al": "Nderlidhja e fasadave të aluminit Schüco FWS 50 me fasadën e ventiluar me panele Fundermax. Integrimi i fasadave është realizuar falë një game të gjërë të sistemeve që M-technologie implementon. Sistemet e kombinuara të fasadave dhe të trajtuara në mënyrë të veçantë, garantojnë integrimin e thjeshtë dhe shumë efektiv të fasadës së aluminit në fasadën e ventiluar të disniveluar.Përveç parametrave termik dhe akustik qe janë faktorë thelbësor, me sistemet e perdorura është arritur edhe një pamje jashtëzakonisht e bukur, qe ia ka shtuar hijeshinë kësaj lagje të Tiranës.",
+        "content_en": "The connection of Schüco FWS 50 aluminum facades with the ventilated facade of Fundermax panels. The integration of facades is achieved through a wide range of systems that M-technologie implements. The combined and specially treated facade systems guarantee simple and highly effective integration of the aluminum facade into the uneven ventilated facade. In addition to the essential thermal and acoustic parameters, the used systems have also achieved an extremely beautiful appearance, adding to the grandeur of this neighborhood in Tirana.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Xhami-në-fasade:-10mm-ESG-SN29/18-HT/20mm-90%-Ag-+'U'profil-/55.2-Clima-Guard-Premium-LABEL",
+        "content_al": "Xhami në fasade: 10mm ESG SN29/18 HT/20mm 90% Ag +'U'profil /55.2 Clima Guard Premium",
+        "content_en": " Glass on facades: 10mm ESG SN29/18 HT/20mm 90% Ag +'U' profile/55.2 Clima Guard Premium",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Xhami-në-skylight:-12mm-ESG-extra-clear-SN29/18-HT-/-16-mm-90%-Argon-/-6mm-ESG/-20mm-+'U'profil-/-66.2-Clima-Guard-Premium-LABEL",
+        "content_al": "Xhami në skylight: 12mm ESG extra clear SN29/18 HT / 16 mm 90% Argon / 6mm ESG/ 20mm +'U'profil / 66.2 Clima Guard Premium.",
+        "content_en": "Glass on skylight: 12mm ESG extra clear SN29/18 HT/16mm 90% Argon/6mm ESG/20mm +'U' profile/66.2 Clima Guard Premium.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Kompleksin-luksoz-'IVY-Residence'-gjendet-Label",
+        "content_al": "Kompleksin luksoz 'IVY Residence' gjendet në Aktash në rrugën Ali Pashë Tepelena, i cili është ndërtuar nga kompania 'ILIRIA BUILDING'.",
+        "content_en": "The luxury complex 'IVY Residence' is located in Aktash on Ali Pasha Tepelena street, built by 'ILIRIA BUILDING' company. ",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Dyer-dhe-dritare-alumini-AD-AWS-70-HI-LABEL",
+        "content_al": "Dyer dhe dritare alumini AD-AWS 70 HI",
+        "content_en": "Aluminum doors and windows AD-AWS 70 HI ",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Dritaret-reshqitëse-ASS70HI-LABEL",
+        "content_al": "Dritaret reshqitëse ASS70HI",
+        "content_en": "Sliding windows ASS70HI",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Xhami-trefishet-dhe-xhami-solar-nga-jashtë,-dhe-low-E-nga-brenda-LABEL",
+        "content_al": "Xhami trefishet dhe xhami solar nga jashtë, dhe low-E nga brenda",
+        "content_en": "Triple glazed glass with solar control coating on the outside and low-E coating on the inside.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Kompleksi-afarist-banesor-Premium-Group-LABEL",
+        "content_al": "Kompleksi afarist - banesor Premium Group - Kosova është i vendosur në zonën ikonike të Lagjes Pejton, në Prishtinë. ",
+        "content_en": "The Premium Group commercial-residential complex in Kosovo is located in the iconic area of Pejton neighborhood, in Pristina.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Mektrin-Motors,-përfaqësues-zyrtar-i-markavave-premium-pershkrimi",
+        "content_al": "Mektrin Motors, përfaqësues zyrtar i markavave premium si: Jaguar & Land Rover, Volvo Cars, Kia, Volvo Trucks, Renault Trucks, Volvo Penta dhe Ranieri International Boats Servis të autorizuar dhe të standardeve më të larta europiane, shërbime karrocerie sipas teknikave më të fundit. Me lokacion në autostraden Tirane-Durrës, kilometri i 6, Shqipëri. ",
+        "content_en": "Mektrin Motors, official representative of premium brands such as Jaguar & Land Rover, Volvo Cars, Kia, Volvo Trucks, Renault Trucks, Volvo Penta and Ranieri International Boats. Authorized service with highest European standards, body shop services using the latest techniques. Located on Tirana-Durres highway, kilometer 6, Albania.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Sistemi-i-fasades:-Panorama-Dizajn-Schuco-AWS-35PD-Label",
+        "content_al": "Sistemi i fasades: Panorama Dizajn Schuco AWS 35PD",
+        "content_en": "Facade system: Panorama Design Schuco AWS 35PD",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Xhami:-Esg-10mm-SN-70/35-HT-/-16mm-Aluminum-spacer-/-VSG-55.2mm-Float-Extra-Clear-Label",
+        "content_al": "Xhami: Esg 10mm SN 70/35 HT / 16mm Aluminum spacer / VSG 55.2mm Float Extra Clear",
+        "content_en": "Glass: Esg 10mm SN 70/35 HT / 16mm Aluminum spacer / VSG 55.2mm Float Extra Clear",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Sistemi-i-dritareve-rrëshqitëse-LABEL",
+        "content_al": "Sistemi i dritareve rrëshqitëse.",
+        "content_en": "Sliding window system.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Xhami-i-përdorur:-6mm-Float-ESG,-6mm-Low-E,6mm-ESG-+-Emajlim-RAL-9006-LABEL",
+        "content_al": "Xhami i përdorur: 6mm Float ESG, 6mm Low-E,6mm ESG + Emajlim RAL 9006.",
+        "content_en": "Glass used: 6mm tempered float glass, 6mm Low-E glass, 6mm tempered glass with RAL 9006 enamel coating.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "BM-Kabana-House-është-shtëpi-banimi,-shtëpia-gjendet-në-Veterrnik-LABEL",
+        "content_al": "BM Kabana House është shtëpi banimi, shtëpia gjendet në Veterrnik, në lagjen private 'International Village'. Në këtë shtëpi gjejmë të dy kombinimet sikurse pamjen ashtu dhe efiqienten, prandaj instalimi i xhamit ofron ngrohtësi dhe ndriqim natyral varësisht nga sezona. Në çdo objekt në të cilën përfshihet xhami ofrohet pamja panoramike e cila sjell natyrën brenda ambientit tuaj. Schüco AOC 50 SG.",
+        "content_en": "BM Kabana House is a residential house located in Veternik, in the private neighborhood 'International Village'. In this house, we find both aesthetic and functional combinations, so the installation of glass provides warmth and natural light regardless of the season. In any building that includes glass, a panoramic view is offered, which brings nature inside your environment. Schüco AOC 50 SG system is used.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Ndarjet-e-brendshme-për-Raiffesien-Bank-Kosovo.-Schüco-AKS-IW-40-LABEL",
+        "content_al": "Ndarjet e brendshme për Raiffesien Bank Kosovo. Schüco AKS IW 40 - Për Ndarje të brendshme - dizajn dhe komoditet. Schüco AKS IW 40 është një zgjidhje specifike për ndarjen e hapësirave të zyrave ose kthinave. Për dallim nga sistemet tjera ndarëse, të cilat janë të thjeshta dhe shumë të lehta (lëkundëse), IW40 ofron stabilitetin e nevojshëm për ndarjen me cilësi të lartë të hapësirave për zyre. Dyert në këtë system integrohen lehtë dhe mund të jenë me xham të plotë, dru dhe panel alumini. Karakteristikë e sistemit është mbrojtja nga zhurma e cila është testuar dhe arrinë në 48 dB. Schüco AKS IW40 prodhohet dhe montohet lehtë, është efikas në përdorim dhe mund të përdoret në mënyrë fleksibile.",
+        "content_en": "Internal partitions for Raiffeisen Bank Kosovo. Schüco AKS IW 40 - For internal partitioning - design and convenience. Schüco AKS IW 40 is a specific solution for dividing office or workspace areas. Unlike other partition systems, which are simple and very light (shaky), IW40 offers the necessary stability for high-quality division of office spaces. Doors in this system integrate easily and can be full glass, wood and aluminum panel. A characteristic of the system is noise protection, which is tested and achieves 48 dB. Schüco AKS IW40 is easy to produce and install, efficient in use, and can be used flexibly.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Një-nga-projektet-e-para-të-realizuara-nga-Grupi-Mabetex-në-Astana-LABEL",
+        "content_al": "Një nga projektet e para të realizuara nga Grupi Mabetex në Astana. Ky aeroport është çertifikuar dhe homologuar për fluturime ndërkombëtare. Fusha e parë ajrore e Astana u ndërtua në vitin 1931 në periferi të qytetit dhe u zhvillua më tej pas Luftës së Dytë Botërore. Sidoqoftë, një aeroport i ri, i cili u bë Aeroporti Ndërkombëtar Astana, u ndërtua 11 milje në jug të qytetit dhe u hap në nëntor 1963. Ai u përdor kryesisht nga Aeroflot dhe drejtoria e tij lokale. Pas transferimit të kryeqytetit nga Almaty në Astana në dhjetor 1997, aeroporti iu nënshtrua një seri rikonstruksionesh madhore nga Grupi Mabetex i cili e solli atë deri në standardet ndërkombëtare, duke përfshirë pistën aktuale 11,484ft (3.500 m). Aeroporti Ndërkombëtar i Astana ka kaluar një rinovim të madh në përgatitje për pritjen e turistëve për ekspozitën ndërkombëtare EXPO 2017.",
+        "content_en": "One of the first projects carried out by the Mabetex Group in Astana. This airport is certified and homologated for international flights. Astana's first airfield was built in 1931 on the outskirts of the city and further developed after World War II. However, a new airport, the Astana International Airport, was built 11 miles south of the city and opened in November 1963. It was mainly used by Aeroflot and its local directorate. After the capital was transferred from Almaty to Astana in December 1997, the airport underwent a series of major reconstructions by the Mabetex Group, bringing it up to international standards, including the current 11,484ft (3,500 m) runway. The Astana International Airport has undergone a major renovation in preparation for the reception of tourists for the EXPO 2017 international exhibition.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Salla-e-Koncerteve-është-një-qendër-për-artet-interpretuese-në-Astana-LABEL",
+        "content_al": "Salla e Koncerteve është një qendër për artet interpretuese në Astana, kryeqyteti i Kazakhstanit. U inagurua nga Presidenti i Kazakhstanit, Nursultan Nazarbayev në ditën e Pavarësisë së kombit, 15 dhjetor 2009. Auditoriumi i Shtetit Astana shtrihet në jug të një aksi organizativ historik që çon në Pallatin Presidencial me Shtëpinë e Senatit përballë auditorit. Forma e ndërtesës u krijua nga një analizë e një lule vendase. Muzika të cilën ndërtesa mbështjell, reflekton në formën dhe ngjyrën dinamike të zarfit. Forma e ndërtuar, e parashikuar si 'Lulja e Stepës' përmban një sistem dyqanesh strehimi, ballkone, restorante, dy kinema dhe Salla e Koncerteve. Salla është një guaskë e veshur me dru nga brenda dhe jashtë e ulur thellë brenda zarfit të ndërthurur. Kjo hapësirë si barku simbolizon një instrument muzikor vendas kazak ‘Dombra’. Plazat me shumë nivele brenda ndërtesës integrohen me sistemin e pllakave në secilën anë të boshtit qendror. Korniza konkrete është e veshur me xham për të mbrojtur pjesën e brendshme nga ekstremet e ashpra të klimës ndërsa pasqyrojnë peisazhin në ndryshim. Forma e ndërtesës ngjall dinamizmin e petaleve të një lule si një metaforë për vetë dinamizmin e muzikës. Struktura e jashtme e ndërtesës përfshin një seri mureve të lakuara të bëra prej betoni me një veshje të paneleve prej qelqi të pikturuar mbrapa. Këto struktura mbrojnë funksionet e brendshme të ndërtesës nga kushtet e vështira të motit të Astana. Ndërtesa përmban një holl prej tridhjetë metrash të lartë i cili shtrihet mbi 3.000 metra katror, i cili ka për qëllim të krijojë një shesh publik të brendshëm në shkallë urbane që mund të mirëpresë qytetarët e Astana gjatë gjithë vitit. Tiparet akustike dhe vizuale të teatrove tradicionale janë modernizuar dhe janë sjellë në një nivel të pakapërcyeshëm, kulla e mizave përdor teknologji të përparuar për të siguruar fleksibilitet maksimal në skenë, muret e brendshme dhe të jashtme janë të mbuluara në gur të çmuar italian , dhe dekori u krijua nga dekoratorë ekspertë. Fasadat, kolonat dhe formacionet e mureve të teatrit janë të mbuluara me pllaka me mermer Siziliani Pearl (në total rreth 6,000 ton janë përdorur gjatë projektit) të madhësive dhe trashësive të ndryshme, duke krijuar një harmoni të përsosur të ngjyrave dhe materialeve tipike të arkitekturës klasike. Disa seksione të bëra me materiale me origjinë të ndryshme, gjithsesi përzihen në gurin natyral. Elementet e vetëm që dalin nga kjo harmoni stilistike janë çatia e bakrit dhe ngjyra bronzi e kornizave të dritareve të aluminit, zbukuruar me printime të ekranit të mëndafshta që përshkruajnë skena nga folklori Kazakistan. Skulptura të shumta dhe ndeshjet e ndriçimit shtojnë një prekje dekorative shtesë në ndërtesë",
+        "content_en": "The Central Concerts Hall is a center for performing arts in Astana, the capital of Kazakhstan. It was inaugurated by President Nursultan Nazarbayev on the day of the nation's independence, December 15, 2009. The State Auditorium of Astana is located south of a historic organizational axis leading to the Presidential Palace, with the Senate House facing the auditorium. The building's form was created from an analysis of a local flower. The music the building envelops is reflected in the dynamic shape and color of the petal. The built form, envisioned as the 'Steppe Flower', comprises a system of sheltered walkways, balconies, restaurants, two cinemas, and a Concert Hall. The Hall is a wooden-clad shell seated deeply within the interwoven petal. This space, resembling a belly, symbolizes a local Kazakh musical instrument 'Dombra'. Multi-level plazas inside the building integrate with the paving system on each side of the central axis. The concrete frame is clad in glass to protect the interior from harsh weather while reflecting the changing landscape. The building's form evokes the dynamism of a flower petal as a metaphor for the dynamism of music itself. The external structure of the building features a series of lacquered walls made of concrete with painted glass panels behind. These structures shield the building's internal functions from Astana's harsh weather conditions. The building contains a 30-meter-high foyer spanning over 3,000 square meters, designed to create an indoor public square on an urban scale that can welcome Astana's citizens throughout the year. The acoustic and visual features of traditional theaters have been modernized and brought to an unparalleled level, the fly tower employs advanced technology to ensure maximum flexibility on stage, and both the internal and external walls are covered in valuable Italian marble, while the decor was created by expert decorators. The facades, columns, and wall formations of the theater are covered in Sicilian Pearl marble slabs (approximately 6,000 tons were used during the project) of different sizes and thicknesses, creating a perfect harmony of colors and typical materials of classical architecture. Some sections made with materials of different origins, however, blend in with natural stone. The only elements that deviate from this stylistic harmony are the copper roof and the bronze color of the aluminum window frames, decorated with dark screen prints describing scenes from Kazakh folklore. Numerous sculptures and lighting fixtures add an additional decorative touch to the building.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Winder-garden-LABEL",
+        "content_al": "",
+        "content_en": "Winder garden",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Interior-LABEL",
+        "content_al": "Interior",
+        "content_en": "Interior",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Window+Door-LABEL",
+        "content_al": "Dritare + Dyer",
+        "content_en": "Window + Door",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Window+Door-with-remote-control-LABEL",
+        "content_al": "Dritare + Dyer me telekomandë",
+        "content_en": "Window+Door with remote control",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Skylight-LABEL",
+        "content_al": "Skylight",
+        "content_en": "Skylight",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Continual-façade-Label",
+        "content_al": "Fasadë kontinuale",
+        "content_en": "Continual façade",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Glass-façade,-Aluminum-façade-Label",
+        "content_al": "Fasada të xhamit, Fasada të Aluminit",
+        "content_en": "Glass façade, Aluminum façade",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Certifikatat!-LABEL",
+        "content_al": "Certifikatat!",
+        "content_en": "Certificates!",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Shkrimi-tek-certifikatat-LABEL",
+        "content_al": "Si një kompani me renome, certifikatat tona tregojnë përkushtimin tonë ndaj cilësisë dhe ndikojnë në rritjen e besueshmërisë së klientëve. Ne kemi arritur të fitojmë certifikime nga organizata të respektuara dhe prestigjioze, duke përfshirë standarded ISO. Këto certifikata janë dëshmi e përkushtimit tonë ndaj përmbushjes së kërkesave të tregut dhe mbështetjes së vlerave tona si një kompani e rëndësishme dhe me integritet të lartë.",
+        "content_en": "As a reputable company, our certifications demonstrate our commitment to quality and contribute to increasing customer trust. We have achieved certifications from respected and prestigious organizations, including ISO standards. These certifications are evidence of our dedication to meeting market requirements and supporting our values as an important and high-integrity company.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Na-Kontaktoni-LABEL",
+        "content_al": "Na Kontaktoni",
+        "content_en": "Contact us",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Telefoni-LABEL",
+        "content_al": "Telefoni:",
+        "content_en": "Telephone",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Contact-Us-Page-Text-Label",
+        "content_al": " Adresa: &nbsp;Lebanë 10000 Prishtinë - Kosovë <br /><br /> Ndjehuni të lirë të na shkruani për çdo pyetje rreth produkteve dhe shërbimeve tona. <br /> Ne do të iu përgjigjemi sa më shpejtë që mundemi.",
+        "content_en": "Address: &nbsp;Lebanë 10000 Pristina - Kosovo <br /><br /> Feel free to write to us for any questions about our products and services. <br /> We will respond as soon as we can.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Katallogu-Aluminit-Label",
+        "content_al": "Katallogu Aluminit",
+        "content_en": "Aluminum Catalog",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Katallogu-Xhamit-Label",
+        "content_al": "Katallogu Xhamit",
+        "content_en": "Glass Catalog",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Katallogu-PVC-Label",
+        "content_al": "Katallogu PVC",
+        "content_en": "PVC Catalog",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Mirenjohjet-tona-Label",
+        "content_al": "Mirenjohjet tona!",
+        "content_en": "Our gratitude!",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Mirenjohjet-tona-description-Label",
+        "content_al": "Vlerësimet pozitive për kontributin tonë në fushën tonë të veprimtarisë, si nga klientët dhe partnerët tanë, duke u njohur për cilësinë e produkteve dhe shërbimeve tona, përkushtimin ndaj inovacionit dhe teknologjisë së avancuar. Këto mirenjohje janë dëshmi e këmbënguljes sonë për të përmbushur pritshmëritë e klientëve dhe për të qenë një kompani e rëndësishme në fushën tonë të veprimtarisë.",
+        "content_en": "Positive evaluations for our contribution in our field of activity, both from our customers and partners, recognizing the quality of our products and services, our dedication to innovation and advanced technology. These appreciations are evidence of our commitment to meeting customer expectations and being an important company in our field of activity.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "pershkrimiMabetexFooter",
+        "content_al": "M-Technologie është anëtare e kompanisë me renome ndërkombëtare, “MABETEX GROUP” me seli në Lugano të Zvicrës",
+        "content_en": "M-Technologie is a member of the internationally renowned company, “MABETEX GROUP”, headquartered in Lugano, Switzerland",
+        "content_de": "M-Technologie ist Mitglied des international renommierten Unternehmens “MABETEX GROUP” mit Hauptsitz in Lugano, Schweiz",
+        "usage": "footer"
+    },
+    {
+        "key": "CilesiInovacionDheZgjidhjeDuhur",
+        "content_al": "Cilësi dhe inovacion, <br/> zgjidhje e duhur për biznesin tënd.",
+        "content_en": "Quality and innovation, <br/>  the right solution for your business.",
+        "content_de": "Qualität und innovation,<br/>  die richtige Lösung für ihren geschäft.",
+        "usage": ""
+    },
+    {
+        "key": "PershkrimiTekSlideriKompleks",
+        "content_al": "Me teknologjine me moderne ofrojme projektim, prodhim dhe montim te fasadave, duke permbushur keshtu nevojat e klienteve tane.",
+        "content_en": "Quality and innovation,  the right solution for your business.",
+        "content_de": "Qualität und innovation, die richtige Lösung für ihren geschäft.",
+        "usage": ""
+    },
+    {
+        "key": "MenagjmentiLabel",
+        "content_al": "Menaxhmenti",
+        "content_en": "Management",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Menagjmentidescription",
+        "content_al": "M-Technologie që nga themelimi është lider i tregut të brendshëm, regjional dhe më gjerë duke ofruar produkte cilësore të standardit evropian, si prodhues i fasadave të varura, dyerve, dritareve nga alumini dhe PVC-ja dhe produkteve nga xhami me teknologji plotësisht automatike dhe të kompjuterizuar. Kompania jonë duke qenë pjesë e korporatës multinacionale MABETEX GROUP, në vitet e fundit e ka akumuluar një eksperiencë të madhe, duke operuar në tregje të ndryshme, të tilla si Kosova, Shqipëria, Zvicra, Kazakhstani. Në vitet e kaluara në këto vende kemi realizuar fasada dhe element fasade duke përdorur sisteme të aluminit si Schüco, FEAL, METRA etj. Nuk mund të mos e precizoj se ndërtimet e realizuara ishin teknikisht shumë të kompletuara dhe kishin vështirësi realizimi që kërkonte profesionalizëm të lartë.  Strategjitë dhe politikat tona ndërmarrëse janë gjithnjë të bazuara në ruajtjen e cilësisë së produkteve dhe në ngritje të vazhdueshme të besimit tek klientët tanë. Pikërisht këto strategji n’a lejuan që t'i realizojmë pikësynimet e parapara, pavarësisht krizës ekonomike globale.</br/> <br/>Fuqia jonë qëndronte në veçanti në kujdesin që kishim në zgjedhjen e tregjeve, në ruajtjen e bashkëpunimit me partnerët tanë tradicionalë; në ruajtjen e stabilitetit financiar; në investimet, në hulumtim dhe zhvillim të produkteve të reja; në formimin e vazhdueshëm dhe ruajtjen e resurseve njerëzore.Vëmendje të veçantë i kemi kushtuar kursimit të energjisë dhe ruajtjes së mjedisit. Për këtë na është mirënjohës i gjithë komuniteti, si dhe institucionet shtetërore. Duke pasur parasysh se veprojmë në një ekonomi të tregut të lirë, pikësynimet tona primare mbeten gjithnjë rritja ekonomike dhe ruajtja e stabilitetit. Realizimin e këtyre qëllimeve do ta arrijmë duke u ofruar klientëve tanë produkte inovative me kualitet të lartë dhe një asistencë teknike profesionale. Në 'M-Technologie' e aplikojmë një 'formulë magjike' nëpërmjet së cilës ideja e klientit shndërrohet në projekt ideor, vazhdon në projekt ekzekutiv, tansformohet në produkt, ekzekutohet dhe montohet në fasadë dhe më në fund përfundon me projekt konstruktiv 'as built'. M-Technologie pra ofron zgjidhje 'ME QELËS NË DORË' për të gjitha llojet e fasadave, dyerve dhe dritareve nga ALU&PVC-së: si për objekte të mëdha, ashtu edhe për të vogla. Së fundi, me krenari të veçantë po e them se ambiciet tona për këtë vit janë ende më të mëdha se ato të viteve të kaluara. ",
+        "content_en": "Since its foundation, M-Technology has been a leader in the domestic, regional, and wider market by offering quality European standard products as a manufacturer of hung facades, aluminum and PVC doors, windows, and fully automated and computerized glass products. Being a part of the multinational corporation MABETEX GROUP, our company has accumulated great experience in recent years by operating in various markets such as Kosovo, Albania, Switzerland, Kazakhstan, and others. In these countries, we have realized facades and facade elements using aluminum systems such as Schüco, FEAL, METRA, etc. It should be emphasized that the constructions we have realized were technically very complete and had the difficulties that required high professionalism. Our entrepreneurial strategies and policies are always based on maintaining product quality and continuously building trust with our customers. These strategies allowed us to achieve our goals, despite the global economic crisis. </br/> <br/> Our strength was particularly in the care we took in choosing markets, maintaining cooperation with our traditional partners, financial stability, investments, research and development of new products, and continuous training and development of human resources. We have paid special attention to energy conservation and environmental protection. For this, we are grateful to the entire community and state institutions. Given that we operate in a free market economy, our primary objectives remain economic growth and stability. We will achieve these goals by offering our customers innovative products with high quality and professional technical support. At M-Technology, we apply a “magical formula” through which the customer's idea is transformed into an ideor project, continues into an executive project, becomes a product, is executed and assembled on the facade, and finally ends with the 'as-built' construction project. Therefore, M-Technology offers “TURNKEY SOLUTIONS” for all types of ALU & PVC facades, doors, and windows, both for large and small buildings. Finally, I proudly say that our ambitions for this year are even greater than those of the previous years.\"",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "tekstiPerProjektetErealizuara",
+        "content_al": "Dëshmi e përkushtimit tonë ndaj inovacionit, kreativitetit dhe qëndrueshmërisë, të projektuar me kujdes për të përmbushur nevojat dhe <br/> specifikimet unike të klientëve tanë, duke përfshirë gjithashtu teknologjinë më të fundit dhe tendencat e dizajnit.",
+        "content_en": "Evidence of our dedication to innovation, creativity, and sustainability, carefully designed to meet the unique needs and <br/>  specifications of our clients, including the latest technology and design trends.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Konfiguratori",
+        "content_al": "Konfiguratori",
+        "content_en": "Configurator",
+        "content_de": "Configurator",
+        "usage": ""
+    },
+    {
+        "key": "Teksti-pare-tek-konfiguratori-Label",
+        "content_al": "Varësisht nga nevojat tuaja, me anë të vizualizimit në 3D ti mund të ndertosh dritaren tënde duke zgjedhur profilin, ngjyren, dimenzionet e te gjitha cka duhet per te bere porosine.",
+        "content_en": "Depending on your needs, with the help of 3D visualization, you can build your own window by choosing the profile, color, dimensions, and everything else you need to place your order.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Konfiguratori-Shuco-MV8-Label",
+        "content_al": "Shuco MV8",
+        "content_en": "",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "1.Profili-konfiguratori-Label",
+        "content_al": "1. Profili",
+        "content_en": "1. Profile",
+        "content_de": "1. Profil",
+        "usage": ""
+    },
+    {
+        "key": "2.Ngjyra-konfiguratori-Label",
+        "content_al": "2. Ngjyra",
+        "content_en": "2. Color",
+        "content_de": "2. Farbe",
+        "usage": ""
+    },
+    {
+        "key": "Ngjyra-Bardhe-konfiguratori-Label",
+        "content_al": "Bardhë",
+        "content_en": "White",
+        "content_de": "Weiss",
+        "usage": ""
+    },
+    {
+        "key": "Ngjyra-Antracid-konfiguratori-Label",
+        "content_al": "Antracid",
+        "content_en": "Antracid",
+        "content_de": "Antrazid",
+        "usage": ""
+    },
+    {
+        "key": "Ngjyra-Antracid-dhe-Bardh-konfiguratori-Label",
+        "content_al": " &nbsp; Antracid Bardhë",
+        "content_en": " &nbsp; Antracid White",
+        "content_de": "&nbsp; Antracid Weiss",
+        "usage": ""
+    },
+    {
+        "key": "InstaBuild_project_description",
+        "content_al": "InstaBuilt është fabrikë e madhe e dedikuar për ndërtim modulor, është angazhuar për të përgjigjur krizës klimatike duke përfshirë aspektet ambientale. InstaBuilt gjendët në magjistralen Prishtinë-Mitrovicë, 12 km, Rruga Victoria, Kosovë.",
+        "content_en": "InstaBuilt is a large factory dedicated to modular construction, committed to addressing the climate crisis by incorporating environmental aspects. InstaBuilt is located on the Pristina-Mitrovica highway, 12 km, Victoria Street, Kosovo.",
+        "content_de": "InstaBuilt ist eine große Fabrik, die sich der modularen Konstruktion widmet und sich verpflichtet hat, die Klimakrise durch die Integration von Umweltaspekten anzugehen. InstaBuilt befindet sich an der Autobahn Pristina-Mitrovica, 12 km, Victoria Street, Kosovo.",
+        "usage": ""
+    },
+    {
+        "key": "SkyLight-dhe-fasada-vetikale:-Alumil-Smartia-M7_Label",
+        "content_al": "SkyLight dhe fasada vertikale: Alumil Smartia M7_(ESG 8mm SN29/18 /16mm WE/ 6mm Float Extra Clear /16mm WE/Lami Glass 4.4.2 Premium 2)",
+        "content_en": "SkyLight and vertical facade: Alumil Smartia M7_(ESG 8mm SN29/18 /16mm WE/ 6mm Float Extra Clear /16mm WE/Lami Glass 4.4.2 Premium 2)",
+        "content_de": "SkyLight und vertikale Fassade: Alumil Smartia M7_(ESG 8mm SN29/18 /16mm WE/ 6mm Float Extra Clear /16mm WE/Lami Glass 4.4.2 Premium 2)",
+        "usage": ""
+    },
+    {
+        "key": "Ndarjet-e-bredshme:-Xhami-ESG-12mm-Float-Extra-Clear-Label",
+        "content_al": "Ndarjet e brendshme: Xhami ESG 12mm Float Extra Clear.",
+        "content_en": "Wide joints: ESG Glass 12mm Float Extra Clear.",
+        "content_de": "Breite Fugen: ESG-Glas 12mm Float Extra Clear.",
+        "usage": ""
+    },
+    {
+        "key": "Balostradat:-PROFIL-TALNI-SABCO_Xhami-Lami-Glass-10.10.4-Float-Extra-Clear-Label",
+        "content_al": "Balostradat: PROFIL TALNI SABCO_Xhami Lami Glass 10.10.4 Float Extra Clear",
+        "content_en": "Balustrades: SABCO TALNI PROFILE_Laminated Glass 10.10.4 F",
+        "content_de": "Brüstungen: SABCO TALNI PRO",
+        "usage": ""
+    },
+    {
+        "key": "Diamond-Residdence-project-Pershkrimi",
+        "content_al": "I dizajnuar për t’i plotësuar kërkesat e veçanta, Diamond Residence ofron komoditetin dhe rehatinë përtej standardeve të zakonshme të të jetuarit. Diamond Residence është projekti më i ri në Kosovë i gjigantit Mabetex Group. Ideja e projektit bazohet në vizionin e kompanisë qe te hartoj dhe realizoj projekte të cilësise se larte duke iu përgjigjur më së miri kërkesave të klientëve. Kompleksi në të cilin eleganca dhe luksi kurorëzohen në një arkitekturë klasike është ndërtuar me shumë përpikëri nga një ekip efikas dhe kreativ. I pozicionuar në Hajvali, në një pikë balancuese në mes të qytetit dhe periferisë, afër zones urbane dhe larg zhurmës, Diamond Residence ofron kushte ideale për një standard luksoz të të jetuarit. ",
+        "content_en": "Designed to meet specific requirements, Diamond Residence offers comfort and relaxation beyond the usual standards of living. Diamond Residence is the newest project in Kosovo by the giant Mabetex Group. The idea of the project is based on the company's vision to design and implement high-quality projects that best meet the needs of clients. The complex, where elegance and luxury are crowned in a classical architecture, has been built with great care by an efficient and creative team. Positioned in Hajvali, at a balancing point between the city and the suburbs, near the urban area and away from noise, Diamond Residence offers ideal conditions for a luxurious standard of living. ",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Dyer-dhe-Dritare-PVC:-KBE,-Mekanizimi-G-U,-Xhami:-Gardian-Glass-Label",
+        "content_al": "Dyer dhe Dritare PVC: KBE, Mekanizimi G-U, Xhami: Gardian Glass.",
+        "content_en": "Dyer dhe Dritare PVC: KBE, Mekanizimi G-U, Xhami: Gardian Glass.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "3.Lloji-konfiguratori-Label",
+        "content_al": "3. Lloji",
+        "content_en": "3. Type",
+        "content_de": "3. Type",
+        "usage": ""
+    },
+    {
+        "key": "Dritare-një-krahëshe-konfiguratori-Label",
+        "content_al": "Dritare një krahëshe",
+        "content_en": "Single-hung window",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Dritare-dy-krahëshe-konfiguratori-Label",
+        "content_al": "Dritare dy krahëshe",
+        "content_en": "Double-hung window",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Dere-një-krahëshe-konfiguratori-Label",
+        "content_al": "Dere një krahëshe",
+        "content_en": "Single-hung door",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Dere-dy-krahëshe-konfiguratori-Label",
+        "content_al": "Dere dy krahëshe",
+        "content_en": "Double-hung door",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Dere/dritare-fikse-konfiguratori-Label",
+        "content_al": "Dere/dritare fikse",
+        "content_en": "Fixed door/window",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Dere-rreshqitese-konfiguratori-Label",
+        "content_al": "Dere/dritare fikse",
+        "content_en": "Fixed door/window",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "4.Roleta-konfiguratori-Label",
+        "content_al": "4. Roleta",
+        "content_en": "4. Window Blinds",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Roleta-Mbi-konfiguratori-Label",
+        "content_al": "Roleta Mbi",
+        "content_en": "Roller blinds",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Roleta-Anash-konfiguratori-Label",
+        "content_al": "Roleta Anash",
+        "content_en": "Side blinds",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Roleta-Veneciane-konfiguratori-Label",
+        "content_al": "Roleta Veneciane",
+        "content_en": "Venetian blinds",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Pa-Roleta-konfiguratori-Label",
+        "content_al": "Pa Roleta",
+        "content_en": "Without blinds",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "5.Dimenzionet-konfiguratori-Label",
+        "content_al": "5. Dimenzionet",
+        "content_en": "5. Dimensions",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Gjatesia-konfiguratori-Label",
+        "content_al": "Gjatesia",
+        "content_en": "Length",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Gjerësia-konfiguratori-Label",
+        "content_al": "Gjerësia",
+        "content_en": "Width",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "6.Sasia-konfiguratori-Label",
+        "content_al": "6. Sasia",
+        "content_en": "6. Quantity",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Copë-konfiguratori-Label",
+        "content_al": "copë",
+        "content_en": "Piece",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Teksti-Plotsimit-te-dhenave-konfiguratori-Label",
+        "content_al": "Për ta dërguar porosinë duhet ti plotësoni këto te dhëna",
+        "content_en": "To place an order, you need to fill in the following information",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Emri-dhe-mbiemri-konfiguratori-Label",
+        "content_al": "Emri dhe mbiemri",
+        "content_en": "Name and Surname",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Adresa-konfiguratori-Label",
+        "content_al": "Adresa",
+        "content_en": "Address",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Numri-telefonit-konfiguratori-Label",
+        "content_al": "Numri telefonit",
+        "content_en": "Phone Number",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Dergo-Porosine-teksti-konfiguratori-Label",
+        "content_al": "Dërgo porosinë, në do të ju kontaktojmë shumë shpejt për të diskutuar rreth detajeve të tjera!",
+        "content_en": "Send the order, we will contact you very soon to discuss further details!",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "E-mail-konfiguratori-Label",
+        "content_al": "E-mail",
+        "content_en": "E-mail",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Qyteti-konfiguratori-Label",
+        "content_al": "Qyteti",
+        "content_en": "City",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Dërgo-porosinë-konfiguratori-Label",
+        "content_al": "Dërgo porosinë",
+        "content_en": "Send order",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Kompleksi-Banesore-Luxor-Green-Pershkrimi",
+        "content_al": "Kompleksi banesor Luxury Green Apartments “PIKA 2”, është ndërtuar në një nga pjesët më atraktive të Prishtinës, afër Qendrës, në rrugën Gazmend Zajmi, vetëm 200m përmbi Restaurant “Rugova” më saktësisht në Lagjen Aktash.",
+        "content_en": "\"Luxury Green Apartments \"\"PIKA 2\"\" residential complex is built in one of the most attractive parts of Prishtina, near the center, on Gazmend Zajmi street, just 200m above the \"\"Rugova\"\" Restaurant, precisely in the Aktash neighborhood.\"",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Kompleksi-banesor-Pika-Prestige-PIKA-Pershkrimi",
+        "content_al": "Kompleksi banesor Pika Prestige “PIKA 4”, në zemër të Prishtinës. Është ndërtuar në një nga pjesët më atraktive të Prishtinës, në rrugën Adrian Krasniqi, në Lagjen Bregu i Diellit.",
+        "content_en": "\"The residential complex Pika Prestige \"\"PIKA 4\"\" is located in the heart of Prishtina. It is built in one of the most attractive areas of Prishtina, on Adrian Krasniqi street, in the Bregu i Diellit neighborhood. \"",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Dyer-dhe-dritare-SCHUCO-PVC-82-mm,-brenda-bardh-ndërsa-jashtë-Antracid-Label",
+        "content_al": "Dyer dhe dritare SCHUCO PVC 82 mm, brenda bardh ndërsa jashtë Antracid",
+        "content_en": "Doors and windows SCHUCO PVC 82 mm, white inside and Antracid outside",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Roletne-mbi-dritare-me-kuti-suvatuese-në-pjesen-e-jashtme-/-hapja-me-motorr-dhe-shirit-sipas-kërkesës-Label",
+        "content_al": "Roletne mbi dritare me kuti suvatuese në pjesen e jashtme / hapja me motorr dhe shirit sipas kërkesës.",
+        "content_en": "Roller blinds above the windows with a retractable box on the outside / opening with motor and ribbon according to the request. ",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Dyer-dhe-dritare-PVC:-SCHUCO-82-mm,-me-ngjyrë-të-bardhë-Label",
+        "content_al": "Dyer dhe dritare PVC: SCHUCO 82 mm, me ngjyrë të bardhë",
+        "content_en": "Triple glass, solar glass from the outside, and low-E from the inside, as well as with aluminum edging. ",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Roletne-mbi-dritare-me-kuti-suvatuese-në-pjesen-e-jashtme-/-hapja-me-motorr-dhe-shirit-sipas-kërkesës-Label",
+        "content_al": "Roletne mbi dritare me kuti suvatuese në pjesen e jashtme / hapja me motorr dhe shirit sipas kërkesës.",
+        "content_en": "Roller blinds above windows with spring boxes on the outside / motorized opening and ribbon according to request.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Xhami-i-trefisht,-xhami-solar-nga-jashtë,-dhe-low-E-nga-brenda,-si-dhe-me-llajsne-te-aluminit.-Label",
+        "content_al": "Xhami i trefisht, xhami solar nga jashtë, dhe low-E nga brenda, si dhe me llajsne te aluminit.",
+        "content_en": "Triple glass, solar glass from the outside, and low-E from the inside, as well as aluminum cladding.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Pikore-nga-alumini-me-ngjyre-të-bardhë.-Label",
+        "content_al": "Pikore nga alumini me ngjyre të bardhë.",
+        "content_en": "White colored aluminum gutter.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Pikore-nga-alumini-me-ngjyre-të-Antracid.-Label",
+        "content_al": "Pikore nga alumini me ngjyre Antracid.",
+        "content_en": "Antracid-colored aluminum facades.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Kompleksi-banesor-“Adriatiku”-Pershkrimi",
+        "content_al": "Kompleksi banesor “Adriatiku”. Është ndërtuar në një nga pjesët më atraktive të Podujeves, afër Qendrës Spitalore.",
+        "content_en": "Residential complex “Adriatic”. It is built in one of the most attractive parts of Podujevo, near the Hospital Center. \"",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Dyer-dhe-dritare-PVC:-88mm-KBE,-ngjyrë-të-bardhë-Label",
+        "content_al": "Dyer dhe dritare PVC: 88mm KBE, ngjyrë të bardhë.",
+        "content_en": "PVC doors and windows: 88mm KBE, white color.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Xhami-i-trefisht,-xhami-solar-nga-jashtë,-dhe-low-E-nga-brenda,-shtesat-në-pjesen-e-siperme-për-roletne-të-jashtme-Label",
+        "content_al": "Xhami i trefisht, xhami solar nga jashtë, dhe low-E nga brenda, shtesat në pjesen e siperme për roletne të jashtme.",
+        "content_en": "Triple glazed windows, solar glass on the outside, and low-E on the inside, with additional fittings on the top for external blinds.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Kompleksi-banesor-“Joni-Constrcution”-Pershkrimi",
+        "content_al": "Kompleksi banesor “Joni Constrcution”. Është ndërtuar në një nga pjesët më atraktive të Prishtinës, afër Qendrës, në rrugën C, në Lagjen Mati.",
+        "content_en": "Residential complex “Joni Construction”. It is built in one of the most attractive areas of Prishtina, near the city center, on C Street, in Mati neighborhood.\"",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Dyer-dhe-dritare-PVC:-SCHUCO-82-mm,-brenda-bardhë-si-dhe-ana-jashtë-Antracid-Label",
+        "content_al": "Dyer dhe dritare PVC: SCHUCO 82 mm, brenda bardhë si dhe ana jashtë Antracid.",
+        "content_en": "PVC doors and windows: SCHUCO 82 mm, white inside and Antracid on the outside.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Roletne-mbi-dritare-me-kuti-suvatuese-në-të-dy-anet-/-hapja-me-motorr-Label",
+        "content_al": "Roletne mbi dritare me kuti suvatuese në të dy anet / hapja me motorr.",
+        "content_en": "Roll-up shutters above windows with adjustable box on both sides / motorized opening.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Xhami-i-trefisht,-xhami-solar-nga-jashtë,-dhe-low-E-nga-brenda,-si-dhe-me-llajsnet-WARM-EDGE-Label",
+        "content_al": "Xhami i trefisht, xhami solar nga jashtë, dhe low-E nga brenda, si dhe me llajsnet WARM EDGE.",
+        "content_en": "Triple glass, solar glass on the outside, low-E on the inside, and with WARM EDGE spacers.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "IWY-Pershkrimi",
+        "content_al": "Kompleksin luksoz 'IVY Residence' gjendet në Aktash në rrugën Ali Pashë Tepelena, i cili është ndërtuar nga kompania 'ILIRIA BUILDING'",
+        "content_en": "The luxury complex 'IVY Residence' is located in Aktash on Ali Pasha Tepelena street, built by 'ILIRIA BUILDING' company. ",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Kompleksi-banesor-ONTEX-Pershkrimi",
+        "content_al": "Kompleksi banesor ONTEX, në Lagjen Bregu i Diellit në Prishtinë.",
+        "content_en": "Residential complex ONTEX, located in the neighborhood of Bregu i Diellit in Pristina. ",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Dyer-dhe-dritare-70-mm-KBE,-brenda-bardh-ndërsa-jashtë-Antracid-Label",
+        "content_al": "Dyer dhe dritare 70 mm KBE, brenda bardh ndërsa jashtë Antracid.",
+        "content_en": "Doors and windows 70 mm KBE, white on the inside and Antracid on the outside.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Roletne mbi dritare-Label",
+        "content_al": "Roletne mbi dritare",
+        "content_en": "Roller blinds above windows",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Ngjyra-Kafe-konfiguratori-Label",
+        "content_al": "Kafe",
+        "content_en": "Brown",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "B2B-Tekst",
+        "content_al": "Ne jemi një kompani bashkëpunuese që vlerëson punën në ekip dhe komunikimin e hapur. Ne besojmë se puna bashkë me klientët dhe partnerët tanë është çelësi i suksesit, dhe jemi gjithmonë të hapur për bashkëpunime dhe partneritete të reja që mund të sjellin përfitime për të gjithë palët e përfshira. Le të punojmë së bashku për të arritur qëllimet tona dhe të krijojmë një ndikim pozitiv në industrinë.",
+        "content_en": "We are a collaborative company that values teamwork and open communication. We believe that working together with our clients and partners is the key to success, and we are always open to new collaborations and partnerships that can benefit all parties involved. Let's work together to achieve our goals and make a positive impact in the industry.",
+        "content_de": "Wir sind ein kooperatives Unternehmen, das Teamarbeit und offene Kommunikation schätzt. Wir glauben, dass eine Zusammenarbeit mit unseren Kunden und Partnern der Schlüssel zum Erfolg ist und wir sind immer offen für neue Kooperationen und Partnerschaften, die allen Beteiligten zugute kommen können. Lassen Sie uns gemeinsam unsere Ziele erreichen und einen positiven Einfluss auf die Branche ausüben.",
+        "usage": ""
+    },
+    {
+        "key": "B2B-Label",
+        "content_al": "B2B",
+        "content_en": "B2B",
+        "content_de": "B2B",
+        "usage": ""
+    },
+    {
+        "key": "Vendi-ideal-që-plotëson-te-gjitha-kriteret-per-ALBANICAMALL-pershkrimi",
+        "content_al": "Vendi ideal që plotëson te gjitha kriteret per te jetuar. Ajo gërsheton në vete lidhshmërin mes banimit dhe afarizmit. Albanica Mall është një qendër tregtare moderne dhe e larmishme në qytetin e Gjilanit në Kosovë. Ndodhet në një lokacion të mirë strategjik afër qendrës së qytetit.",
+        "content_en": "",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Dyer-dhe-Dritare-72mm-KBE-label",
+        "content_al": "Dyer dhe Dritare 72mm KBE",
+        "content_en": "",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Albanica-Residence-Prishtina-e-Re,-cilësi-e-garantuar-nga-Behgjet-Pacolli-pershkrimi",
+        "content_al": "Albanica Residence - Prishtina e Re, cilësi e garantuar nga Behgjet Pacolli. Kompleks ky i cili ka një infrastrukturë shumë të mirë, me gjelbërim, kënde lojrash, sigurim, parking të mjaftueshëm. Gjendet në Veternik - Prishtina e re.",
+        "content_en": "Albanica Residence - New Prishtina, guaranteed quality by Behgjet Pacolli. This complex has a very good infrastructure, with green areas, playgrounds, security, and sufficient parking. It is located in Veternik - New Prishtina. ",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Dritare-SCHUCO-PVC-82-mm,-Bardh-me-Antracid-Label",
+        "content_al": "Dritare SCHUCO PVC 82 mm, Bardh me Antracid.",
+        "content_en": "SCHUCO PVC windows 82 mm, White with Anthracite.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Roletne-mbi-dritare-me-kuti-suvaturese-në-të-dy-anet,-hapja-e-roletave-me-motorr-Label",
+        "content_al": "Roletne mbi dritare me kuti suvaturese në të dy anet, hapja e roletave me motorr.",
+        "content_en": "Roller shutters above the windows with recessed boxes on both sides, opening of the shutters with motors.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Lagja-Marigona-Hill-është-një-nga-lagjet-e-reja-në-Prishtinë-pershkrimi",
+        "content_al": "Lagja Marigona Hill është një nga lagjet e reja në Prishtinë, Kosovë. Ajo ndodhet në periferi të qytetit në afërsi të Liqenit të Badofcit dhe shtrihet mbi një kodër që ofron pamje të bukura të qytetit.",
+        "content_en": "Marigona Hill Neighborhood is one of the new neighborhoods in Pristina, Kosovo. It is located on the outskirts of the city, near the Badovc Lake, and extends over a hill that offers beautiful views of the city. ",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "VSG-10.10.4-Float-Extra-Clear-label",
+        "content_al": "VSG 10.10.4 Float Extra Clear",
+        "content_en": "VSG 10.10.4 Float Extra Clear",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Llajsnet-e-xhamit-warm-age,-dhe-montimi-i-dritarëve-është-me-RAL-MONTAGE.-Label",
+        "content_al": "Llajsnet e xhamit warm age, dhe montimi i dritarëve është me RAL MONTAGE.",
+        "content_en": "Warm age glass seals, and installation of windows is with RAL MONTAGE.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Agro-Trade-Project-Text",
+        "content_al": "Kompleksi banesor “Agrotrade” është i vendosur në rrugën B, kompleksi ka përreth gjithçka që ju duhet: dyqane ushqimore, barnatore, çerdhe, shkolla, qendra tregtare, hapësira të gjelbra, parkingje.",
+        "content_en": "The “Agrotrade” residential complex is located on B street, and it has everything you need around it: grocery stores, pharmacies, kindergartens, schools, shopping centers, green spaces, and parking lots.\"",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Alumil-Smartia-M6_(ESG-6-mm-1.0-T-/-14-WE-90%-/-Lami-Glass-44.2-Float-Extra-Clear)-label",
+        "content_al": "Alumil Smartia M6_(ESG 6 mm 1.0 T / 14 WE 90% / Lami Glass 44.2 Float Extra Clear)",
+        "content_en": "Alumil Smartia M6_(ESG 6 mm 1.0 T / 14 WE 90% / Lami Glass 44.2 Float Extra Clear)",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Qendra-Kombëtare-Shkencore-Onkologjike-(Spitali-Onkologjik)-Astana,-Kazakistan-Text",
+        "content_al": "Qendra Kombëtare Shkencore Onkologjike (Spitali Onkologjik) Astana, Kazakistan, paraqet një arkitektur unike, ku struktura e objektit është relizuar në formë të shkallëzuar (zik–zak) dhe llojllojshmëri të sistemeve të inkurpuruara të fasadave si dhe të punuar nga profesionist të fushave, e bënë këtë objekt me rëndësi shumë të veçantë. Sistemet e fasadave të realizuar në këtë objekt me siperfaqe mbi 25mij m²",
+        "content_en": "The National Scientific Oncology Center (Oncology Hospital) in Astana, Kazakhstan, presents a unique architecture, where the structure of the building is realized in a stepped (zig-zag) form and the variety of incorporated facade systems worked by field professionals makes this object very special. The facade systems implemented in this object cover an area of over 25,000 sqm.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "I-vendosur-në-zonën-ikonike-të-Bllokut,-në-Tiranë.-Salt-Text",
+        "content_al": "I vendosur në zonën ikonike të Bllokut, në Tiranë. Salt është një restorant i perceptuar nga njerëzit që kanë përvojë të madhe në shërbimet e mikëpritjes.",
+        "content_en": "",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Turan-Multifunctional-Congress-Center-Description",
+        "content_al": "Turan Qendra e Kongreseve Multifunksionale, e ndërtuar në qytetin e shenjtë të Turkestanit, mbulon një sipërfaqe prej 3.12 hektarësh me një hapësirë prej më shumë se 14,000 m2. Ajo përfshin një kompleks teatro-koncerti multifunksional, i cili falë një projekti akustik shumë të avancuar mundëson dhe garanton një nivel të lartë performancash për ngjarje publike dhe shtetërore, si dhe forumet politike prestigjioze, festivale tematike spektakolare, konferenca, si dhe koncerte të lloj llojshme.<br/><br/>Ajo është vendi ideal për ngjarje të rëndësishme me rëndësi rajonale, duke ofruar një skenë të madhe me një turn të skenës dhe pajisje audio-video moderne, mikrofona dhe amplifikues, dritë LED, ekran polycinal, projektor video me burim laser, dhomë përkthimi, etj. Përfshin një sallë të rëndësishme në hyrje, një garderobë dhe sallën kryesore që mund të pranojë deri në 1000 shikues, duke përfshirë një ballkon VIP.<br/><br/>Ajo është e pajisur me dhoma përgatitore për orkestër, kori dhe dhoma të tjera për përgatitjen e artistëve, dhoma takimesh dhe një sallë/restaurant.",
+        "content_en": "The Turan Mutifunctional Congress Center ,built in the holy city of Turkestan covers a plot of land of 3.12 hectares with an area of more than 14,000 m2. It includes a multifunctional theater-concert complex, which thanks to a very advanced acoustic project can allow and guarantee a high level performance of both public and state events, as well as prestigious political forums as well as spectacular thematic festivals, conferences, concerts from classical music. to pop music.<br/><br/><br/><br/>It is the ideal venue for important events of regional importance, with the provision of a large stage with a scenic tower and modern audio-video equipment, microphones and amplifiers, LED lighting, polycinal screen, video projector with laser source, translation room, etc. It includes an important hall at the entrance, a cloakroom and the main hall that can accommodate up to 1000 spectators including a VIP balcony. <br/><br/>It is equipped with orchestra rehearsal rooms, choir and other rooms for rehearsing artists, meeting rooms and a room / restaurant.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Turan-Multifunctional-Congress-Centermaterial-1-Label",
+        "content_al": "Sistemi: Schüco FWS 50; AWS 114; AWS 70 BS.HI dhe AWS 75.SI+/ADS 75.SI. Finish Eloxal A6/C0",
+        "content_en": "System: Schüco FWS 50; AWS 114; AWS 70 BS.HI and AWS 75.SI+/ADS 75.SI. Anodized finish A6/C0",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Turan-Multifunctional-Congress-Centermaterial-2-Label",
+        "content_al": "Xhami: Guardian Sun Guard® HP Neutral 50/32 dhe ClimaGuard ® Premiuim2+T",
+        "content_en": "Glass: Guardian Sun Guard® HP Neutral 50/32 and ClimaGuard ® Premiuim2+T",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Roletne-mbi-dritare-Label",
+        "content_al": "Roletne mbi dritare",
+        "content_en": "Blinds on the windows",
+        "content_de": "Jalousien an den Fenstern",
+        "usage": ""
+    },
+    {
+        "key": "Ngjyra-Kafe-konfiguratori-Label",
+        "content_al": "Kafe",
+        "content_en": "Brown",
+        "content_de": "Braun",
+        "usage": ""
+    },
+    {
+        "key": "PergjegjsiaSocialeTekstiLabel",
+        "content_al": "Bazuar në historinë tonë, mund të thuhet se përgjegjësia sociale e kompanisë është një pjesë e rëndësishme e misionit tonë. M-Technologie ka ndikim të rëndësishëm në fushën e veprimtarisë, me mbi 250 punëtorë që punojnë në fabrikën tonë dhe kontribuojnë në ekonominë lokale.<br/><br/>Në përpjekjen tonë për të qenë një forcë pozitive në shoqërinë ku veprojmë, M-Technologie gjithmonë është përfshirë në përgjegjësinë sociale, duke mbajtur parasysh aspektet si:",
+        "content_en": "Based on our history, it can be said that social responsibility is an important part of our mission. M-Technology has a significant impact in the field of activity, with over 250 workers working in our factory and contributing to the local economy.<br/><br/> In our efforts to be a positive force in the society where we operate, M-Technology has always been involved in social responsibility, taking into account aspects such as:",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Pika-1-pergjegjsiaSociale",
+        "content_al": "Mbrojtja e mjedisit dhe reduktimi i ndotjes, duke përdorur burime të qëndrueshme dhe praktika të mbrojtjes së mjedisit. Kjo përfshin përdorimin e materialeve dhe teknologjive me impakt minimal në mjedis, si dhe ndërmarrjen e veprimeve për të ulur ndotjen dhe emetimet.",
+        "content_en": "Protecting the environment and reducing pollution, using sustainable resources and environmental protection practices. This includes the use of materials and technologies with minimal impact on the environment, as well as taking actions to reduce pollution and emissions.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Pika-2-pergjegjsiaSociale",
+        "content_al": "Mbështetja e komuniteteve të sportit, duke përfshirë dhe mbështetjen e iniciativave të komunitetit të shoqërive joqeveritare, si dhe ofrimin e mundësive për punësim dhe zhvillim.",
+        "content_en": "Supporting sports communities, including supporting initiatives of non-governmental organizations, as well as providing employment and development opportunities.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Pika-3-pergjegjsiaSociale",
+        "content_al": "Përmirësimi i kushteve të punës dhe kujdesi ndaj të drejtave të punëtorëve, duke siguruar shpërblime të drejta dhe siguri për punonjësit. Ne ofrojmë trajnime dhe mundësi për zhvillim profesional për punëtorët, si dhe sigurojmë kushte të punës të sigurta dhe të shëndetshme me standarde ISO.",
+        "content_en": "Improving working conditions and caring for workers' rights, providing fair rewards and safety for employees. We offer training and professional development opportunities for workers, as well as ensuring safe and healthy working conditions with ISO standards.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Pika-4-pergjegjsiaSociale",
+        "content_al": "Promovimi i një kulture të ndërgjegjshme dhe një imazhi pozitiv të brendshëm dhe të jashtëm, duke shfrytëzuar kampanjat e marketingut dhe komunikimit të hapur me publikun.",
+        "content_en": "Promoting a conscious culture and a positive internal and external image, using marketing campaigns and open communication with the public.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Pika-5-pergjegjsiaSociale",
+        "content_al": "Ndër veprimet e tjera që ne bëjmë për të ndihmuar në ngritjen e një shoqërie më të mirë, përfshihen edhe donacionet për organizata dhe nisma që promovojnë vlera të ngjashme si ne. Ne gjithashtu punojmë me furnizuesit tanë për të siguruar që ata po përmbushin standarde etike dhe të përgjegjësisë sociale në prodhimin e mallrave dhe shërbimeve që na ofrojnë.",
+        "content_en": "Among other actions we take to help build a better society, we also donate to organizations and initiatives that promote similar values ​​to us. We also work with our suppliers to ensure that they are meeting ethical and social responsibility standards in the production of goods and services they provide us.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "M-Technologie-si-sponsor-i-klubit-KF-SHKËNDIJA-label",
+        "content_al": "M-Technologie si sponsor i klubit KF SHKËNDIJA.",
+        "content_en": "",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "M-Technologie-si-sponsor-i-klubit-KF-SHKËNDIJA-description",
+        "content_al": "Projekti për ndërtimin e një klubi të mirëfillt i cili do të ia kthej dinjitetin e futbollit Hajvalisë. Me mbështetjen e madhe të sponsorizimin tonë dhe me punë e vullnet, do të mund të ju ofrojmë mundësi e kushte të merituara për të gjithë talentët që të realizojnë ëndrrën e tyre. Objektivat e KF SHKËNDIJA janë të qarta, ndërsa ato bëhen edhe më lehtë të arritshme falë mbështetjes së sponsorit tonë, M-Technologie. Drejtori i M-Technologie, z. Rrustem Pacolli ka shprehur gatishmëri të plotë të i qëndrojë pranë klubit dhe futbollistëve. Fillim i mbarë, me sukses të garantuar!",
+        "content_en": "",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "vizitoFaqen-Label",
+        "content_al": "Vizito Faqen",
+        "content_en": "",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "mesazhi-label",
+        "content_al": "Mesazhi juaj...",
+        "content_en": "Your message...",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Dërgo-mesazhin-Label",
+        "content_al": "Dergo mesazhin",
+        "content_en": "Send your message",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Dergo-Porosine-teksti-b2b-Label",
+        "content_al": "Për pyetje në lidhje me biznesin ose ndonjë pyetje, ju lutemi plotësoni formularin e mëposhtëm  dhe ne do t'ju kontaktojmë sa më shpejt të jetë e mundur.",
+        "content_en": "For questions regarding business or any inquiries, please complete the form below, and we will get back to you as soon as possible.",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Teksti-Plotsimit-te-dhenave-b2b-Label",
+        "content_al": "Kontakto me ne!",
+        "content_en": "Contact us!",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Standardi-i-përputhshmërisë-Label",
+        "content_al": "Stadard i xhamit (Konformiteti)",
+        "content_en": "Glass Standard (Conformity)",
+        "content_de": "",
+        "usage": ""
+    },
+    {
+        "key": "Standardi-Xhamit-description",
+        "content_al": "Këtu mund të shkarkoni ose mësoni më shumë rreth 'Standardit të Xhamit (Konformitetit)'. Më mirë të themi se informoheni për cilësinë, rezistencën ndaj temperaturave dhe karakteristikat e tjera të rëndësishme të xhamit tonë. Ne si M-Technologie jemi përkushtuar ndaj cilësisë, sigurisë së xhamit tonë dhe produktet tona përputhen me standardet më të larta në treg. Ofrojmë xham të cilësisë së lartë dhe garantojmë përputhshmërinë e produkteve tona me standardet e përcaktuara.",
+        "content_en": "",
+        "content_de": "",
+        "usage": ""
+    }
+]
